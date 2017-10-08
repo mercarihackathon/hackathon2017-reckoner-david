@@ -1,0 +1,5552 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Iditarod) (NNPS Mushers) (NNP Kill) (NNS Thousands))
+      (PP (IN of)
+        (NP (NNS Dogs) (NNS Dogs))))
+    (VP (VBP are)
+      (VP (VBG hauling)
+        (NP
+          (NP (NNS sleds))
+          (PP (IN behind)
+            (NP (PRP them))))
+        (PP (IN in)
+          (NP (DT the) (NNP Iditarod) (NNP Trail) (NNP Sled) (NNP Dog) (NNP Rac) (NN http) (NN t) (NN co) (NN xrU5hp8cd4)))))))
+
+(ROOT
+  (NP
+    (NP (NNP Iditarod) (NNPS Mushers) (NNP Kill))
+    (NP
+      (NP (NNS Thousands))
+      (PP (IN of)
+        (NP (NNS Dogs))))
+    (NP (NN http) (NN t) (NN co) (NNS F948MiqgGL))))
+
+(ROOT
+  (SINV
+    (PP (IN In)
+      (NP
+        (NP (NNP Alaska))
+        (SBAR
+          (S
+            (NP
+              (NP (DT an) (NNP Iditarod) (NN dog))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (MD can)
+                    (VP (VB t)
+                      (S
+                        (VP (VB keep)
+                          (PRT (RP up)))))))))
+            (VP (VBZ gets))))))
+    (VP (VBD dropped) (VBZ dies)
+      (PP (IN in)
+        (NP (NN snow))))
+    (NP
+      (NP (NNP First))
+      (SBAR (IN since)
+        (S
+          (NP (CD 2009) (NN http))
+          (VP (VBP t)
+            (NP
+              (NP (NN co) (NNS KM1qnMzeem))
+              (PP (IN via)
+                (NP (NNP AKbirder))))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBZ dies)
+      (PP (IN after)
+        (S
+          (VP (VBG being)
+            (VP (VBN buried)
+              (PP (IN by)
+                (NP (NN snow))))))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Iditarod) (NNPS Mushers) (NNP Kill) (NNS Thousands))
+      (PP (IN of)
+        (NP (NNS Dogs) (NNS Dogs))))
+    (VP (VBP are)
+      (VP (VBG hauling)
+        (NP
+          (NP (NNS sleds))
+          (PP (IN behind)
+            (NP (PRP them))))
+        (PP (IN in)
+          (NP (DT the) (NNP Iditarod) (NNP Trail) (NNP Sled) (NNP Dog) (NNP Rac) (NN http) (NN t) (NN co) (NN xrU5hp8cd4)))))))
+
+(ROOT
+  (NP
+    (NP (NNP Iditarod) (NNPS Mushers) (NNP Kill))
+    (NP
+      (NP (NNS Thousands))
+      (PP (IN of)
+        (NP (NNS Dogs))))
+    (NP (NN http) (NN t) (NN co) (NNS F948MiqgGL))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog) (NNP Dorado))
+    (VP (VBD found)
+      (NP
+        (NP
+          (ADJP (JJ dead)
+            (PP (IN in)
+              (NP
+                (NP (NN snow))
+                (PP (IN in)
+                  (NP
+                    (NP (NN town))
+                    (PP (IN of)
+                      (NP
+                        (NP (NNP Unalakeet) (NNP Alaska) (NNP News) (NNP FOX) (NNPS Sports))
+                        (PP (IN on)
+                          (NP (NNP MSN) (NN http) (NN t))))))))))
+          (NN co) (NNS 2EVyZvm3i4))
+        (PP (IN via)
+          (NP (NNP FoxSports)))))))
+
+(ROOT
+  (SBARQ
+    (WHNP
+      (NP (NNP Iditarod) (NNP Tragedy) (NNP Dog) (NNP Suffocates))
+      (PP (IN Under)
+        (NP (NNP Snow))))
+    (SQ (MD Will)
+      (NP (NNP Justice))
+      (VP (VB Be)
+        (VP (VBN Served)
+          (SBAR
+            (S
+              (PP (IN In)
+                (NP
+                  (NP (NN light))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT the) (NN death))
+                      (PP (IN of)
+                        (NP (NNP Dorado)))))))
+              (NP (DT a) (CD 5) (NN year) (NN http) (NN t))
+              (VP (VBP co)
+                (NP (CD j4gZDmz1eM))))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBZ dies)
+      (PP (IN after)
+        (S
+          (VP (VBG being)
+            (VP (VBN buried)
+              (PP (IN by)
+                (NP (NN snow))))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBZ dies)
+      (PP (IN after)
+        (S
+          (VP (VBG being)
+            (VP (VBN buried)
+              (PP (IN in)
+                (NP (NN snow) (NN http) (NN t) (NN co) (NNS cTaSYZKFpx))))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog) (NNP Dorado))
+    (VP (VBD found)
+      (NP
+        (NP
+          (ADJP (JJ dead)
+            (PP (IN in)
+              (NP
+                (NP (NN snow))
+                (PP (IN in)
+                  (NP
+                    (NP (NN town))
+                    (PP (IN of)
+                      (NP
+                        (NP (NNP Unalakeet) (NNP Alaska) (NNP News) (NNP FOX) (NNPS Sports))
+                        (PP (IN on)
+                          (NP (NNP MSN) (NN http) (NN t))))))))))
+          (NN co) (NNS 2EVyZvm3i4))
+        (PP (IN via)
+          (NP (NNP FoxSports)))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NNS plans))
+    (VP (VBZ changes)
+      (SBAR (IN after)
+        (S
+          (NP (NN sled) (NN dog) (NN death) (NNS Changes))
+          (VP (VBP are)
+            (VP (VBN planned)
+              (PP (IN for)
+                (NP (NNP Alaska) (NNP s) (NNP Iditarod) (NNP Trail) (NNP Sled) (NNP Dog) (NNP Race) (NN fol) (NN http) (NN t) (NN co) (NN siqvcTgpmb))))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBD died)
+      (PP (IN of)
+        (NP
+          (NP (NN asphyxiation))
+          (VP (VBN buried)
+            (PP (IN in)
+              (NP
+                (NP (NN snow) (NN Race) (NNS officials))
+                (VP (VBN disclosed)
+                  (NP
+                    (NP (DT the) (NNS results))
+                    (PP (IN of)
+                      (NP
+                        (NP (DT the) (NN necropsy))
+                        (PP (IN for)
+                          (NP
+                            (ADJP (CD 5) (NN year) (JJ old))
+                            (NNP Dorado)))))
+                    (SBAR
+                      (WHNP (WP who))
+                      (S
+                        (VP (VBP wa))))))))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBD died)
+      (PP (IN of)
+        (NP
+          (NP (NN asphyxiation))
+          (VP (VBN buried)
+            (PP (IN in)
+              (NP (NN snow)))))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (NNP AK) (NNP Disp) (NNP News) (NNP Featu) (NNP PETA))
+      (VP (VBZ urges)
+        (S
+          (NP (NNP Nome) (NNP DA))
+          (VP (TO to)
+            (VP (VB file)
+              (NP (JJ cruelty) (NNS charges))
+              (PP (IN over)
+                (NP (NNP Iditarod) (NN dog) (NNP s) (NN death) (NNP PETA))))))))
+    (VP (VBZ urges))
+    (NP (NNP Nome) (JJ http) (NN t) (NN co) (NNP TTNR6FF3fA) (NNP AK))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Iditarod) (NNP musher))
+      (SBAR
+        (WHNP (WP$ whose) (NN dog))
+        (S
+          (VP (VBD died)
+            (S
+              (VP (TO to)
+                (VP (VB sue)
+                  (NP (NNP PETA))
+                  (SBAR (IN unless)
+                    (S
+                      (NP (NN organization) (NNS retracts))
+                      (VP (VBZ comments)
+                        (S
+                          (VP (VBG blaming)
+                            (NP (DT the) (NN musher) (NN http))))))))))))))
+    (VP (VBP t)
+      (NP
+        (NP (NN co) (NNS fWc70up5Kn))
+        (PP (IN via)
+          (NP (NNS breakingnews)))))))
+
+(ROOT
+  (NP
+    (NP (NNP Iditarod) (NNP Dog) (NNP Found))
+    (NP
+      (NP (CD 7)
+        (NAC
+          (NP (NNS Days))
+          (PP (IN After)
+            (NP (NNP Disappearing)))
+          (PP (IN From)
+            (NP (NNP Team) (NNP ABC) (NNP News) (NNP Blogs) (NNP Yahoo) (NN http) (NN t))))
+        (NN co) (NNS nriV3kH40I))
+      (PP (IN via)
+        (NP (NNP YahooNews))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NNP Dog))
+    (VP (VBD Found)
+      (NP (CD 7) (NNS Days))
+      (PP (IN After)
+        (NP (NNP Disappearing)))
+      (PP (IN From)
+        (NP
+          (NP (JJ Team) (NN http) (NN t) (NN co) (NNS sR53aeGyTm))
+          (PP (IN via)
+            (NP (NNP ABC))))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Burmeister) (NNS stays))
+      (PP (IN in)
+        (NP (NNP Takotna) (NNP Mackey))))
+    (VP (VBZ intends)
+      (S
+        (VP (TO to)
+          (VP (VB continue)
+            (S
+              (VP (TO to)
+                (VP (VB Iditarod)
+                  (NP (NN http) (NN t) (NN co) (NN zIJHiAfaQw)))))))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Animal) (NNP Legal) (NNP Defense) (NNP Fund) (NNP Cruelty))
+      (PP (TO to)
+        (NP (NNP Alaska))))
+    (VP (VBZ s)
+      (NP
+        (NP (NNP Sled) (NNS Dogs))
+        (PP (IN in)
+          (NP (DT the) (NNP Iditarod) (NN http) (NN t) (NN co) (NN gieDixtfix)))
+        (PP (IN via)
+          (NP (NNP ALDF)))))))
+
+(ROOT
+  (S
+    (NP (JJ Criminal) (NNS charges))
+    (VP (VBN sought)
+      (PP (IN in)
+        (NP (NNP Iditarod) (NN dog) (NN death) (NN http) (NN t) (NN co) (NNS legrbHuEuI))))))
+
+(ROOT
+  (S
+    (NP (JJ Criminal) (NNS charges))
+    (VP (VBN sought)
+      (PP (IN in)
+        (NP (NNP Iditarod) (NN dog) (NN death) (NN http) (NN t) (NN co) (NNS Gza0uQm5PV))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NN Love))
+      (PP (IN of)
+        (NP
+          (NP (NN sport))
+          (PP (RB not)
+            (NP (NN money))))))
+    (VP (VBZ draws)
+      (S
+        (NP (NNP Iditarod) (NNS mushers))
+        (VP (VB http)
+          (NP (NN t) (NN co) (NNS nGOXML0Gb5)))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (NNP FirstWorldProblems) (NNP PETA))
+      (VP (VBZ seeks)
+        (NP (JJ criminal) (NNS charges))
+        (PP (IN in)
+          (NP
+            (NP (NN death))
+            (PP (IN of)
+              (NP (NN dog)))))))
+    (VP (VBD dropped)
+      (PP (IN from)
+        (NP (NNP Iditarod) (NNP Trail) (NNP Sled) (NNP Dog) (NNP Race))))
+    (NP (NN http) (NN t) (NNP co) (NNP 5anpgWazOy))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NNP Dog))
+    (VP (VBZ Dies)
+      (SBAR
+        (S
+          (PP (IN In)
+            (NP (NNP Unalakleet) (NNP Alaska)))
+          (PP (IN After)
+            (NP (NNP Being) (NNP Dropped) (NNP Race) (NNP ANCHORAGE) (NNP Alaska)))
+          (NP (NNS Officials))
+          (VP (VBP say)
+            (NP (DT a) (NN dog))
+            (SBAR (IN that)
+              (S
+                (NP (SYM d))
+                (VP (VB http)
+                  (NP (NN t) (NN co) (NNS csNI9AWGGb)))))))))))
+
+(ROOT
+  (S
+    (NP (JJ latest) (NN news) (NNP Iditarod) (NNP Dog))
+    (VP (VBZ Dies)
+      (SBAR
+        (S
+          (PP (IN In)
+            (NP (NNP Unalakleet) (NNP Alaska)))
+          (PP (IN After)
+            (NP (NNP Being) (NNP Dropped) (NNP Race) (NNP ANCHORAGE) (NNP Alaska)))
+          (NP (NNS Officials) (NN http))
+          (VP (VBP t)
+            (NP (NN co) (NNS ueFtclJF55))))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Iditarod) (NN dog))
+      (VP (VBG awaiting)
+        (NP
+          (NP (NN transport))
+          (PP (TO to)
+            (NP (NNP Anchorage))))
+        (PP (IN after)
+          (S
+            (VP (VBG dropping)
+              (PP (IN from)
+                (NP (NN race))))))))
+    (VP (VBZ dies)
+      (PP (IN in)
+        (NP
+          (NP (DT The)
+            (ADJP (CD 5) (NN year) (JJ old))
+            (NN dog))
+          (VP (VBN named)
+            (S
+              (VP (VB Do)
+                (NP (JJ http) (NN t) (NN co) (NNS Y8XEtcOfza))))))))))
+
+(ROOT
+  (NP
+    (NP (NNP Iditarod) (NNP Dog) (NNP Found))
+    (NP
+      (NP (CD 7)
+        (NAC
+          (NP (NNS Days))
+          (PP (IN After)
+            (NP (NNP Disappearing)))
+          (PP (IN From)
+            (NP (NNP Team) (NNP ABC) (NNP News) (NNP Blogs) (NNP Yahoo) (NN http) (NN t))))
+        (NN co) (NNS nriV3kH40I))
+      (PP (IN via)
+        (NP (NNP YahooNews))))))
+
+(ROOT
+  (S
+    (NP (JJ latest) (NN news) (NNP Iditarod) (NNP Dog))
+    (VP (VBZ Dies)
+      (SBAR
+        (S
+          (PP (IN In)
+            (NP (NNP Unalakleet) (NNP Alaska)))
+          (PP (IN After)
+            (NP (NNP Being) (NNP Dropped) (NNP Race) (NNP ANCHORAGE) (NNP Alaska)))
+          (NP (NNS Officials) (NN http))
+          (VP (VBP t)
+            (NP (NN co) (NNS ueFtclJF55))))))))
+
+(ROOT
+  (FRAG
+    (NP (NNP Iditarod) (NNP Dog) (NNP Dies))
+    (PP (IN In)
+      (NP (NNP Unalakleet) (NNP Alaska)))
+    (PP (IN After)
+      (NP (NNP Being) (NNP Dropped) (NNP Race) (NN http) (NN t) (NN co) (NNS V1uHKPhonp)))))
+
+(ROOT
+  (SINV
+    (S
+      (NP
+        (NP (NNP Iditarod) (NN dog))
+        (VP (VBG missing)
+          (NP (CD 5) (NNS days))))
+      (VP (VBD found)
+        (NP (JJ alive) (NNP BIG) (NNP LAKE) (NNP Alaska))
+        (NP (NNP March) (CD 15))))
+    (VP (VBP UPI)
+      (NP
+        (NP (DT A) (NN sled) (NN dog))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD went)
+              (S
+                (VP (VBG missing)
+                  (X
+                    (NP (SYM d))))))))))
+    (NP (NN http) (NN t) (NNP co) (NNP QJOHOeMbNN))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NNS plans))
+    (VP (VBZ changes)
+      (SBAR (IN after)
+        (S
+          (NP (NN sled) (NN dog) (NN death) (NNS Changes))
+          (VP (VBP are)
+            (VP (VBN planned)
+              (PP (IN for)
+                (NP (NNP Alaska) (NNP s) (NNP Iditarod) (NNP Trail) (NNP Sled) (NNP Dog) (NNP Race) (NN fol) (NN http) (NN t) (NN co) (NN siqvcTgpmb))))))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Iditarod) (NNPS Mushers) (NNP Kill) (NNS Thousands))
+      (PP (IN of)
+        (NP (NNS Dogs) (NNS Dogs))))
+    (VP (VBP are)
+      (VP (VBG hauling)
+        (NP
+          (NP (NNS sleds))
+          (PP (IN behind)
+            (NP (PRP them))))
+        (PP (IN in)
+          (NP (DT the) (NNP Iditarod) (NNP Trail) (NNP Sled) (NNP Dog) (NNP Rac) (NN http) (NN t) (NN co) (NN xrU5hp8cd4)))))))
+
+(ROOT
+  (NP
+    (NP (NNP Iditarod) (NNPS Mushers) (NNP Kill))
+    (NP
+      (NP (NNS Thousands))
+      (PP (IN of)
+        (NP (NNS Dogs))))
+    (NP (NN http) (NN t) (NN co) (NNS F948MiqgGL))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NNP Sled) (NNP Dog) (NNP Death) (NNP Will))
+    (VP (VBZ Lead)
+      (S
+        (VP (TO To)
+          (VP (VB Changes)
+            (S
+              (NP (NNP Race) (NNP Organizers))
+              (VP (VB Say)
+                (NP (NN http) (NN t))
+                (NP
+                  (NP (NN co) (NNS 1p3A8HOeHh))
+                  (PP (IN via)
+                    (NP (NNP HuffPostGreen))))))))))))
+
+(ROOT
+  (X
+    (X
+      (ADVP (RB Finally))
+      (NP (DT a) (JJ Happy) (NN Ending)))
+    (NP
+      (SQ
+        (PP (IN at)
+          (NP (NNP Iditarod) (NNP A) (NNP Lost) (NNP Dog)))
+        (VBZ Is)
+        (NP (NNP Found))
+        (PP (IN After)
+          (NP
+            (NP (CD 7) (NNS Days))
+            (PP (IN via)
+              (NP (NNP Dogster))))))
+      (VP (VB http)
+        (NP (NN t) (NN co) (NNS gRKDtB9VNP))))))
+
+(ROOT
+  (FRAG
+    (NP (NNP Iditarod) (NNP Dog) (NNP Dies))
+    (PP (IN In)
+      (NP (NNP Unalakleet) (NNP Alaska)))
+    (PP (IN After)
+      (NP (NNP Being) (NNP Dropped) (NNP Race) (NN http) (NN t) (NN co) (NNS V1uHKPhonp)))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NNP Dog))
+    (VP (VBZ Dies)
+      (SBAR
+        (S
+          (PP (IN In)
+            (NP (NNP Unalakleet) (NNP Alaska)))
+          (PP (IN After)
+            (NP (NNP Being) (NNP Dropped) (NNP Race) (NNP ANCHORAGE) (NNP Alaska)))
+          (NP (NNS Officials))
+          (VP (VBP say)
+            (NP (DT a) (NN dog))
+            (SBAR (IN that)
+              (S
+                (NP (SYM d))
+                (VP (VB http)
+                  (NP (NN t) (NN co) (NNS csNI9AWGGb)))))))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP
+        (NP (NNP Iditarod) (NN dog))
+        (VP (VBG missing)
+          (NP (CD 5) (NNS days))))
+      (VP (VBD found)
+        (NP (JJ alive) (NNP BIG) (NNP LAKE) (NNP Alaska))
+        (NP (NNP March) (CD 15))))
+    (VP (VBP UPI)
+      (NP
+        (NP (DT A) (NN sled) (NN dog))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD went)
+              (S
+                (VP (VBG missing)
+                  (X
+                    (NP (SYM d))))))))))
+    (NP (NN http) (NN t) (NNP co) (NNP QJOHOeMbNN))))
+
+(ROOT
+  (SINV
+    (VP (VB Stand)
+      (PP (IN with)
+        (NP
+          (NP (NNP ALDF))
+          (PP (IN against)
+            (NP (DT this) (JJ cruel) (NN dog) (NN sled) (NN race))))))
+    (NP (NN http) (NN t) (NNP co) (NNP tT2w0gGTWk))))
+
+(ROOT
+  (NP
+    (NP (NN http) (NN t) (NN co))
+    (NP
+      (NP (CD tQci8G6ZcA) (NNP Iditarod) (NNPS Mushers) (NNP Kill) (NNS Thousands))
+      (PP (IN of)
+        (NP (NNS Dogs))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Iditarod) (NNPS Mushers) (NNP Kill) (NNS Thousands))
+      (PP (IN of)
+        (NP (NNS Dogs) (NNS Dogs))))
+    (VP (VBP are)
+      (VP (VBG hauling)
+        (NP
+          (NP (NNS sleds))
+          (PP (IN behind)
+            (NP (PRP them))))
+        (PP (IN in)
+          (NP (DT the) (NNP Iditarod) (NNP Trail) (NNP Sled) (NNP Dog) (NNP Rac) (NN http) (NN t) (NN co) (NN xrU5hp8cd4)))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP
+        (NP (NNP Iditarod) (NN dog))
+        (VP (VBG missing)
+          (NP (CD 5) (NNS days))))
+      (VP (VBD found)
+        (NP (JJ alive) (NNP BIG) (NNP LAKE) (NNP Alaska))
+        (NP (NNP March) (CD 15))))
+    (VP (VBP UPI)
+      (NP
+        (NP (DT A) (NN sled) (NN dog))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD went)
+              (S
+                (VP (VBG missing)
+                  (X
+                    (NP (SYM d))))))))))
+    (NP (NN http) (NN t) (NNP co) (NNP QJOHOeMbNN))))
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNP Women) (NNPS Inmates) (NNP Care))
+      (PP (IN for)
+        (NP (NNP Iditarod) (NNS Dogs))))
+    (NP (NN http) (NN t) (NN co) (NNS EsAZ9y9dNW))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Animal) (NNP Legal) (NNP Defense) (NNP Fund) (NNP Cruelty))
+      (PP (TO to)
+        (NP (NNP Alaska))))
+    (VP (VBZ s)
+      (NP
+        (NP (NNP Sled) (NNS Dogs))
+        (PP (IN in)
+          (NP (DT the) (NNP Iditarod) (NN http) (NN t) (NN co) (NNS nq3hCNlMll)))
+        (PP (IN via)
+          (NP (NNP ALDF)))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Animal) (NNP Legal) (NNP Defense) (NNP Fund) (NNP Cruelty))
+      (PP (TO to)
+        (NP (NNP Alaska))))
+    (VP (VBZ s)
+      (NP
+        (NP (NNP Sled) (NNS Dogs))
+        (PP (IN in)
+          (NP (DT the) (NNP Iditarod) (NN http) (NN t) (NN co) (NN gieDixtfix)))
+        (PP (IN via)
+          (NP (NNP ALDF)))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP
+        (NP (NNP Iditarod) (NN dog))
+        (VP (VBG missing)
+          (NP (CD 5) (NNS days))))
+      (VP (VBD found)
+        (NP (JJ alive) (NNP BIG) (NNP LAKE) (NNP Alaska))
+        (NP (NNP March) (CD 15))))
+    (VP (VBP UPI)
+      (NP
+        (NP (DT A) (NN sled) (NN dog))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD went)
+              (S
+                (VP (VBG missing)
+                  (X
+                    (NP (SYM d))))))))))
+    (NP (NN http) (NN t) (NNP co) (NNP QJOHOeMbNN))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NNP Sled) (NNP Dog) (NNP Death) (NNP Will))
+    (VP (VBZ Lead)
+      (S
+        (VP (TO To)
+          (VP (VB Changes)
+            (S
+              (NP (NNP Race) (NNP Organizers))
+              (VP (VB Say)
+                (NP (NN http) (NN t))
+                (NP
+                  (NP (NN co) (NNS 1p3A8HOeHh))
+                  (PP (IN via)
+                    (NP (NNP HuffPostGreen))))))))))))
+
+(ROOT
+  (NP
+    (NP (NNP Iditarod) (NNPS Mushers) (NNP Kill))
+    (NP
+      (NP (NNS Thousands))
+      (PP (IN of)
+        (NP (NNS Dogs))))
+    (NP (NN http) (NN t) (NN co) (NNS F948MiqgGL))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Iditarod) (NNPS Mushers) (NNP Kill) (NNS Thousands))
+      (PP (IN of)
+        (NP (NNS Dogs) (NNS Dogs))))
+    (VP (VBP are)
+      (VP (VBG hauling)
+        (NP
+          (NP (NNS sleds))
+          (PP (IN behind)
+            (NP (PRP them))))
+        (PP (IN in)
+          (NP (DT the) (NNP Iditarod) (NNP Trail) (NNP Sled) (NNP Dog) (NNP Rac) (NN http) (NN t) (NN co) (NN xrU5hp8cd4)))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NN Love))
+      (PP (IN of)
+        (NP
+          (NP (NN sport))
+          (PP (RB not)
+            (NP (NN money))))))
+    (VP (VBZ draws)
+      (S
+        (NP (NNP Iditarod) (NNS mushers))
+        (VP (VB http)
+          (NP (NN t) (NN co) (NNS nGOXML0Gb5)))))))
+
+(ROOT
+  (S
+    (NP (JJ Activist) (NN group))
+    (VP (VBZ seeks)
+      (NP
+        (NP (NNS charges))
+        (PP (IN in)
+          (NP (NNP Iditarod) (NN dog) (NN death) (NN http) (NN t) (NN co) (NNS DxjUViw0fo)))))))
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNP Women) (NNPS Inmates) (NNP Care))
+      (PP (IN for)
+        (NP (NNP Iditarod) (NNS Dogs))))
+    (NP (NN http) (NN t) (NN co) (NNS R09Vr9YkI2))))
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNP Women) (NNPS Inmates) (NNP Care))
+      (PP (IN for)
+        (NP (NNP Iditarod) (NNS Dogs))))
+    (NP (NN http) (NN t) (NN co) (NNS EsAZ9y9dNW))))
+
+(ROOT
+  (SBARQ
+    (WHNP
+      (NP (NNP Iditarod) (NNP Tragedy) (NNP Dog) (NNP Suffocates))
+      (PP (IN Under)
+        (NP (NNP Snow))))
+    (SQ (MD Will)
+      (NP (NNP Justice))
+      (VP (VB Be)
+        (VP (VBN Served)
+          (SBAR
+            (S
+              (PP (IN In)
+                (NP
+                  (NP (NN light))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT the) (NN death))
+                      (PP (IN of)
+                        (NP (NNP Dorado)))))))
+              (NP (DT a) (CD 5) (NN year) (NN http) (NN t))
+              (VP (VBP co)
+                (NP (CD j4gZDmz1eM))))))))))
+
+(ROOT
+  (SINV
+    (PP (IN In)
+      (NP
+        (NP (NNP Alaska))
+        (SBAR
+          (S
+            (NP
+              (NP (DT an) (NNP Iditarod) (NN dog))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (MD can)
+                    (VP (VB t)
+                      (S
+                        (VP (VB keep)
+                          (PRT (RP up)))))))))
+            (VP (VBZ gets))))))
+    (VP (VBD dropped) (VBZ dies)
+      (PP (IN in)
+        (NP (NN snow))))
+    (NP
+      (NP (NNP First))
+      (SBAR (IN since)
+        (S
+          (NP (CD 2009) (NN http))
+          (VP (VBP t)
+            (NP
+              (NP (NN co) (NNS KM1qnMzeem))
+              (PP (IN via)
+                (NP (NNP AKbirder))))))))))
+
+(ROOT
+  (S
+    (NP (JJ Activist) (NN group))
+    (VP (VBZ seeks)
+      (NP
+        (NP (NNS charges))
+        (PP (IN in)
+          (NP (JJ Iditarod) (NN dog) (NN death) (NN http) (NN t) (NN co) (NN eJYpaOWBnB)))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (JJ Activist) (NN group))
+      (VP (VBZ seeks)
+        (NP
+          (NP (NNS charges))
+          (PP (IN in)
+            (NP (NNP Iditarod) (NN dog) (NN death) (NNP PETA))))))
+    (VP (VBZ has)
+      (ADVP (RB long))
+      (VP (VBN criticized)
+        (NP (DT the)
+          (ADJP
+            (QP (CD 1) (CD 000)))
+          (NN mile) (JJ Alaskan) (NN sled))))
+    (NP (NN race) (NN http) (NN t) (NNP co) (NNP 2pEQbAzXy2))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (NNP AK) (NNP Disp) (NNP News) (NNP Featu) (NNP PETA))
+      (VP (VBZ urges)
+        (S
+          (NP (NNP Nome) (NNP DA))
+          (VP (TO to)
+            (VP (VB file)
+              (NP (JJ cruelty) (NNS charges))
+              (PP (IN over)
+                (NP (NNP Iditarod) (NN dog) (NNP s) (NN death) (NNP PETA))))))))
+    (VP (VBZ urges))
+    (NP (NNP Nome) (JJ http) (NN t) (NN co) (NNP TTNR6FF3fA) (NNP AK))))
+
+(ROOT
+  (FRAG
+    (NP (NNP One) (NNP Mean) (NNP Dance) (NNP Partner))
+    (SBAR
+      (WHADVP (WRB How))
+      (S
+        (NP (NNP Mother) (NNP Nature))
+        (VP (VBZ Twirls)
+          (NP
+            (NP (DT the) (NNP Sport))
+            (PP (IN of)
+              (NP (NNP Dog) (NNP Mushing) (NN http) (NN t) (NNP co) (NNP LmLUMOec50) (NNP Iditarod)))))))))
+
+(ROOT
+  (NP
+    (NP (NN http) (NN t) (NN co))
+    (NP
+      (NP (CD tQci8G6ZcA) (NNP Iditarod) (NNPS Mushers) (NNP Kill) (NNS Thousands))
+      (PP (IN of)
+        (NP (NNS Dogs))))))
+
+(ROOT
+  (NP
+    (NP (NNP Iditarod) (NNPS Mushers) (NNP Kill))
+    (NP
+      (NP (NNS Thousands))
+      (PP (IN of)
+        (NP (NNS Dogs))))
+    (NP (NN http) (NN t) (NN co) (NNS F948MiqgGL))))
+
+(ROOT
+  (SINV
+    (S
+      (NP
+        (NP (NNP Iditarod) (NN dog))
+        (VP (VBG missing)
+          (NP (CD 5) (NNS days))))
+      (VP (VBD found)
+        (NP (JJ alive) (NNP BIG) (NNP LAKE) (NNP Alaska))
+        (NP (NNP March) (CD 15))))
+    (VP (VBP UPI)
+      (NP
+        (NP (DT A) (NN sled) (NN dog))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD went)
+              (S
+                (VP (VBG missing)
+                  (X
+                    (NP (SYM d))))))))))
+    (NP (NN http) (NN t) (NNP co) (NNP QJOHOeMbNN))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Iditarod) (NNP musher))
+      (SBAR
+        (WHNP (WP$ whose) (NN dog))
+        (S
+          (VP (VBD died)
+            (S
+              (VP (TO to)
+                (VP (VB sue)
+                  (NP (NNP PETA))
+                  (SBAR (IN unless)
+                    (S
+                      (NP (NN organization) (NNS retracts))
+                      (VP (VBZ comments)
+                        (S
+                          (VP (VBG blaming)
+                            (NP (DT the) (NN musher) (NN http))))))))))))))
+    (VP (VBP t)
+      (NP
+        (NP (NN co) (NNS fWc70up5Kn))
+        (PP (IN via)
+          (NP (NNS breakingnews)))))))
+
+(ROOT
+  (NP
+    (NP (NNP Iditarod) (NNPS Mushers) (NNP Kill))
+    (NP
+      (NP (NNS Thousands))
+      (PP (IN of)
+        (NP (NNS Dogs))))
+    (NP (NN http) (NN t) (NN co) (NNS F948MiqgGL))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Iditarod) (NNPS Mushers) (NNP Kill) (NNS Thousands))
+      (PP (IN of)
+        (NP (NNS Dogs) (NNS Dogs))))
+    (VP (VBP are)
+      (VP (VBG hauling)
+        (NP
+          (NP (NNS sleds))
+          (PP (IN behind)
+            (NP (PRP them))))
+        (PP (IN in)
+          (NP (DT the) (NNP Iditarod) (NNP Trail) (NNP Sled) (NNP Dog) (NNP Rac) (NN http) (NN t) (NN co) (NN xrU5hp8cd4)))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (NNP FirstWorldProblems) (NNP PETA))
+      (VP (VBZ seeks)
+        (NP (JJ criminal) (NNS charges))
+        (PP (IN in)
+          (NP
+            (NP (NN death))
+            (PP (IN of)
+              (NP (NN dog)))))))
+    (VP (VBD dropped)
+      (PP (IN from)
+        (NP (NNP Iditarod) (NNP Trail) (NNP Sled) (NNP Dog) (NNP Race))))
+    (NP (NN http) (NN t) (NNP co) (NNP 5anpgWazOy))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Iditarod) (NN dog))
+      (VP (VBG awaiting)
+        (NP
+          (NP (NN transport))
+          (PP (TO to)
+            (NP (NNP Anchorage))))
+        (PP (IN after)
+          (S
+            (VP (VBG dropping)
+              (PP (IN from)
+                (NP (NN race))))))))
+    (VP (VBZ dies)
+      (PP (IN in)
+        (NP
+          (NP (DT The)
+            (ADJP (CD 5) (NN year) (JJ old))
+            (NN dog))
+          (VP (VBN named)
+            (S
+              (VP (VB Do)
+                (NP (JJ http) (NN t) (NN co) (NNS Y8XEtcOfza))))))))))
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNP Women) (NNPS Inmates) (NNP Care))
+      (PP (IN for)
+        (NP (NNP Iditarod) (NNS Dogs))))
+    (NP (NN http) (NN t) (NN co) (NNS R09Vr9YkI2))))
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNP Women) (NNPS Inmates) (NNP Care))
+      (PP (IN for)
+        (NP (NNP Iditarod) (NNS Dogs))))
+    (NP (NN http) (NN t) (NN co) (NNS EsAZ9y9dNW))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Iditarod) (NN dog))
+      (VP (VBG awaiting)
+        (NP
+          (NP (NN transport))
+          (PP (TO to)
+            (NP (NNP Anchorage))))
+        (PP (IN after)
+          (S
+            (VP (VBG dropping)
+              (PP (IN from)
+                (NP (NN race))))))))
+    (VP (VBZ dies)
+      (PP (IN in)
+        (NP
+          (NP (DT The)
+            (ADJP (CD 5) (NN year) (JJ old))
+            (NN dog))
+          (VP (VBN named)
+            (S
+              (VP (VB Do)
+                (NP (JJ http) (NN t) (NN co) (NNS Y8XEtcOfza))))))))))
+
+(ROOT
+  (FRAG
+    (NP (NNP One) (NNP Mean) (NNP Dance) (NNP Partner))
+    (SBAR
+      (WHADVP (WRB How))
+      (S
+        (NP (NNP Mother) (NNP Nature))
+        (VP (VBZ Twirls)
+          (NP
+            (NP (DT the) (NNP Sport))
+            (PP (IN of)
+              (NP (NNP Dog) (NNP Mushing) (NN http) (NN t) (NNP co) (NNP LmLUMOec50) (NNP Iditarod)))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBD died)
+      (PP (IN of)
+        (NP
+          (NP (NN asphyxiation))
+          (VP (VBN buried)
+            (PP (IN in)
+              (NP
+                (NP (NN snow) (NN Race) (NNS officials))
+                (VP (VBN disclosed)
+                  (NP
+                    (NP (DT the) (NNS results))
+                    (PP (IN of)
+                      (NP
+                        (NP (DT the) (NN necropsy))
+                        (PP (IN for)
+                          (NP
+                            (ADJP (CD 5) (NN year) (JJ old))
+                            (NNP Dorado)))))
+                    (SBAR
+                      (WHNP (WP who))
+                      (S
+                        (VP (VBP wa))))))))))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (NNP Iditarod) (NN dog))
+      (VP (VBZ dies)
+        (PP (IN after)
+          (S
+            (VP (VBG being)
+              (VP (VBN buried)
+                (PP (IN in)
+                  (NP (NN snow)))
+                (PP
+                  (ADVP
+                    (NP (DT A) (NN dog))
+                    (RB left))
+                  (IN behind) (IN at)
+                  (NP
+                    (NP (DT a) (NN checkpoint))
+                    (PP (IN in)
+                      (NP (NNP Alaska)))))))))))
+    (VP (VBD was)
+      (ADJP (JJ smothe)))
+    (NP (NN http) (NN t) (NN co) (NNP s47iVida8O) (NNP thuggish))))
+
+(ROOT
+  (SINV
+    (S
+      (NP
+        (NP (NNP Iditarod) (NN dog))
+        (VP (VBG missing)
+          (NP (CD 5) (NNS days))))
+      (VP (VBD found)
+        (NP (JJ alive) (NNP BIG) (NNP LAKE) (NNP Alaska))
+        (NP (NNP March) (CD 15))))
+    (VP (VBP UPI)
+      (NP
+        (NP (DT A) (NN sled) (NN dog))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD went)
+              (S
+                (VP (VBG missing)
+                  (X
+                    (NP (SYM d))))))))))
+    (NP (NN http) (NN t) (NNP co) (NNP QJOHOeMbNN))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBZ dies)
+      (SBAR (IN after)
+        (S
+          (S
+            (VP (VBG being)
+              (VP (VBN buried)
+                (PP (IN in)
+                  (NP (NN snow)))
+                (PP
+                  (ADVP
+                    (NP (DT A) (NN dog))
+                    (RB left))
+                  (IN behind) (IN at)
+                  (NP
+                    (NP (DT a) (NN checkpoint))
+                    (PP (IN in)
+                      (NP (NNP Alaska))))))))
+          (VP (VBD was)
+            (VP (VBN smothered)
+              (PP (IN by)
+                (NP (NN win) (NN http) (NN t) (NN co) (NNS 5wM23GXeV1))))))))))
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNP Women) (NNPS Inmates) (NNP Care))
+      (PP (IN for)
+        (NP (NNP Iditarod) (NNS Dogs))))
+    (NP (NN http) (NN t) (NN co) (NNS R09Vr9YkI2))))
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNP Women) (NNPS Inmates) (NNP Care))
+      (PP (IN for)
+        (NP (NNP Iditarod) (NNS Dogs))))
+    (NP (NN http) (NN t) (NN co) (NNS EsAZ9y9dNW))))
+
+(ROOT
+  (SINV
+    (PP (IN In)
+      (NP
+        (NP (NNP Alaska))
+        (SBAR
+          (S
+            (NP
+              (NP (DT an) (NNP Iditarod) (NN dog))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (MD can)
+                    (VP (VB t)
+                      (S
+                        (VP (VB keep)
+                          (PRT (RP up)))))))))
+            (VP (VBZ gets))))))
+    (VP (VBD dropped) (VBZ dies)
+      (PP (IN in)
+        (NP (NN snow))))
+    (NP
+      (NP (NNP First))
+      (SBAR (IN since)
+        (S
+          (NP (CD 2009) (NN http))
+          (VP (VBP t)
+            (NP
+              (NP (NN co) (NNS KM1qnMzeem))
+              (PP (IN via)
+                (NP (NNP AKbirder))))))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (NNP AK) (NNP Disp) (NNP News) (NNP Featu) (NNP PETA))
+      (VP (VBZ urges)
+        (S
+          (NP (NNP Nome) (NNP DA))
+          (VP (TO to)
+            (VP (VB file)
+              (NP (JJ cruelty) (NNS charges))
+              (PP (IN over)
+                (NP (NNP Iditarod) (NN dog) (NNP s) (NN death) (NNP PETA))))))))
+    (VP (VBZ urges))
+    (NP (NNP Nome) (JJ http) (NN t) (NN co) (NNP TTNR6FF3fA) (NNP AK))))
+
+(ROOT
+  (S
+    (NP (JJ Criminal) (NNS charges))
+    (VP (VBN sought)
+      (PP (IN in)
+        (NP (NNP Iditarod) (NN dog) (NN death) (NN http) (NN t) (NN co) (NNS Gza0uQm5PV))))))
+
+(ROOT
+  (S
+    (NP (NNP PETA))
+    (VP (VBZ pushes)
+      (PP (IN for)
+        (NP
+          (NP (JJ criminal) (NNS charges))
+          (PP (IN in)
+            (NP (NNP Iditarod) (NN dog) (NN death) (NN http) (NN t) (NN co) (NNS C3aOBbhkKa))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog) (NNP Dorado))
+    (VP (VBD found)
+      (NP
+        (NP
+          (ADJP (JJ dead)
+            (PP (IN in)
+              (NP
+                (NP (NN snow))
+                (PP (IN in)
+                  (NP
+                    (NP (NN town))
+                    (PP (IN of)
+                      (NP
+                        (NP (NNP Unalakeet) (NNP Alaska) (NNP News) (NNP FOX) (NNPS Sports))
+                        (PP (IN on)
+                          (NP (NNP MSN) (NN http) (NN t))))))))))
+          (NN co) (NNS 2EVyZvm3i4))
+        (PP (IN via)
+          (NP (NNP FoxSports)))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBD died)
+      (PP (IN of)
+        (NP
+          (NP (NN asphyxiation))
+          (VP (VBN buried)
+            (PP (IN in)
+              (NP (NN snow)))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NNP Dog))
+    (VP (VBZ Dies)
+      (SBAR
+        (S
+          (PP (IN In)
+            (NP (NNP Unalakleet) (NNP Alaska)))
+          (PP (IN After)
+            (NP (NNP Being) (NNP Dropped) (NNP Race) (NNP ANCHORAGE) (NNP Alaska)))
+          (NP (NNS Officials))
+          (VP (VBP say)
+            (NP (DT a) (NN dog))
+            (SBAR (IN that)
+              (S
+                (NP (SYM d))
+                (VP (VB http)
+                  (NP (NN t) (NN co) (NNS csNI9AWGGb)))))))))))
+
+(ROOT
+  (FRAG
+    (NP (NNP Iditarod) (NNP Dog) (NNP Dies))
+    (PP (IN In)
+      (NP (NNP Unalakleet) (NNP Alaska)))
+    (PP (IN After)
+      (NP (NNP Being) (NNP Dropped) (NNP Race) (NN http) (NN t) (NN co) (NNS V1uHKPhonp)))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod))
+    (VP (VBZ s)
+      (NP
+        (NP (NNP Berkowitz))
+        (PP (IN in)
+          (NP
+            (NP (NNP White) (NNP Mountain))
+            (SBAR
+              (S
+                (NP
+                  (NP (DT The) (JJ last) (NN thing) (NN I) (NN m))
+                  (VP (VBG going)
+                    (S
+                      (VP (TO to)
+                        (VP (VB do))))))
+                (VP (VBZ is)
+                  (S
+                    (VP (VB drive)
+                      (NP (PRP$ my) (NNS dogs))
+                      (ADVP (RB hard)
+                        (NP (DT the) (JJ last) (CD 70) (NNS miles)))
+                      (VP (VB http)
+                        (NP (NN t) (NN co) (NNS zRBv8F6Ghh))))))))))))))
+
+(ROOT
+  (FRAG
+    (NP (NNP One) (NNP Mean) (NNP Dance) (NNP Partner))
+    (SBAR
+      (WHADVP (WRB How))
+      (S
+        (NP (NNP Mother) (NNP Nature))
+        (VP (VBZ Twirls)
+          (NP
+            (NP (DT the) (NNP Sport))
+            (PP (IN of)
+              (NP (NNP Dog) (NNP Mushing) (NN http) (NN t) (NNP co) (NNP LmLUMOec50) (NNP Iditarod)))))))))
+
+(ROOT
+  (FRAG
+    (NP (NNP Iditarod) (NNP Dog) (NNP Dies))
+    (PP (IN In)
+      (NP (NNP Unalakleet) (NNP Alaska)))
+    (PP (IN After)
+      (NP (NNP Being) (NNP Dropped) (NNP Race) (NN http) (NN t) (NN co) (NNS V1uHKPhonp)))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NNP Dog))
+    (VP (VBZ Dies)
+      (SBAR
+        (S
+          (PP (IN In)
+            (NP (NNP Unalakleet) (NNP Alaska)))
+          (PP (IN After)
+            (NP (NNP Being) (NNP Dropped) (NNP Race) (NNP ANCHORAGE) (NNP Alaska)))
+          (NP (NNS Officials))
+          (VP (VBP say)
+            (NP (DT a) (NN dog))
+            (SBAR (IN that)
+              (S
+                (NP (SYM d))
+                (VP (VB http)
+                  (NP (NN t) (NN co) (NNS csNI9AWGGb)))))))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Iditarod) (NNP musher))
+      (SBAR
+        (WHNP (WP$ whose) (NN dog))
+        (S
+          (VP (VBD died)
+            (S
+              (VP (TO to)
+                (VP (VB sue)
+                  (NP (NNP PETA))
+                  (SBAR (IN unless)
+                    (S
+                      (NP (NN organization) (NNS retracts))
+                      (VP (VBZ comments)
+                        (S
+                          (VP (VBG blaming)
+                            (NP (DT the) (NN musher) (NN http))))))))))))))
+    (VP (VBP t)
+      (NP
+        (NP (NN co) (NNS fWc70up5Kn))
+        (PP (IN via)
+          (NP (NNS breakingnews)))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (NNP Iditarod) (NN dog))
+      (VP (VBZ dies)
+        (PP (IN after)
+          (S
+            (VP (VBG being)
+              (VP (VBN buried)
+                (PP (IN in)
+                  (NP (NN snow)))
+                (PP
+                  (ADVP
+                    (NP (DT A) (NN dog))
+                    (RB left))
+                  (IN behind) (IN at)
+                  (NP
+                    (NP (DT a) (NN checkpoint))
+                    (PP (IN in)
+                      (NP (NNP Alaska)))))))))))
+    (VP (VBD was)
+      (ADJP (JJ smothe)))
+    (NP (NN http) (NN t) (NN co) (NNP s47iVida8O) (NNP thuggish))))
+
+(ROOT
+  (NP
+    (NP (NN http) (NN t) (NN co))
+    (NP
+      (NP (CD tQci8G6ZcA) (NNP Iditarod) (NNPS Mushers) (NNP Kill) (NNS Thousands))
+      (PP (IN of)
+        (NP (NNS Dogs))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Iditarod) (NNPS Mushers) (NNP Kill) (NNS Thousands))
+      (PP (IN of)
+        (NP (NNS Dogs) (NNS Dogs))))
+    (VP (VBP are)
+      (VP (VBG hauling)
+        (NP
+          (NP (NNS sleds))
+          (PP (IN behind)
+            (NP (PRP them))))
+        (PP (IN in)
+          (NP (DT the) (NNP Iditarod) (NNP Trail) (NNP Sled) (NNP Dog) (NNP Rac) (NN http) (NN t) (NN co) (NN xrU5hp8cd4)))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBD died)
+      (PP (IN of)
+        (NP
+          (NP (NN asphyxiation))
+          (VP (VBN buried)
+            (PP (IN in)
+              (NP
+                (NP (NN snow) (NN Race) (NNS officials))
+                (VP (VBN disclosed)
+                  (NP
+                    (NP (DT the) (NNS results))
+                    (PP (IN of)
+                      (NP
+                        (NP (DT the) (NN necropsy))
+                        (PP (IN for)
+                          (NP
+                            (ADJP (CD 5) (NN year) (JJ old))
+                            (NNP Dorado)))))
+                    (SBAR
+                      (WHNP (WP who))
+                      (S
+                        (VP (VBP wa))))))))))))))
+
+(ROOT
+  (S
+    (NP (JJ Activist) (NN group))
+    (VP (VBZ seeks)
+      (NP
+        (NP (NNS charges))
+        (PP (IN in)
+          (NP (JJ Iditarod) (NN dog) (NN death) (NN http) (NN t) (NN co) (NN eJYpaOWBnB)))))))
+
+(ROOT
+  (FRAG
+    (NP (NNP Iditarod) (NNP Dog) (NNP Dies))
+    (PP (IN In)
+      (NP (NNP Unalakleet) (NNP Alaska)))
+    (PP (IN After)
+      (NP (NNP Being) (NNP Dropped) (NNP Race) (NN http) (NN t) (NN co) (NNS V1uHKPhonp)))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NNP Dog))
+    (VP (VBZ Dies)
+      (SBAR
+        (S
+          (PP (IN In)
+            (NP (NNP Unalakleet) (NNP Alaska)))
+          (PP (IN After)
+            (NP (NNP Being) (NNP Dropped) (NNP Race) (NNP ANCHORAGE) (NNP Alaska)))
+          (NP (NNS Officials))
+          (VP (VBP say)
+            (NP (DT a) (NN dog))
+            (SBAR (IN that)
+              (S
+                (NP (SYM d))
+                (VP (VB http)
+                  (NP (NN t) (NN co) (NNS csNI9AWGGb)))))))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NN Love))
+      (PP (IN of)
+        (NP
+          (NP (NN sport))
+          (PP (RB not)
+            (NP (NN money))))))
+    (VP (VBZ draws)
+      (S
+        (NP (NNP Iditarod) (NNS mushers))
+        (VP (VB http)
+          (NP (NN t) (NN co) (NNS nGOXML0Gb5)))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NNP Dog))
+    (VP (VBZ Dies)
+      (SBAR
+        (S
+          (PP (IN In)
+            (NP (NNP Unalakleet) (NNP Alaska)))
+          (PP (IN After)
+            (NP (NNP Being) (NNP Dropped) (NNP Race) (NNP ANCHORAGE) (NNP Alaska)))
+          (NP (NNS Officials))
+          (VP (VBP say)
+            (NP (DT a) (NN dog))
+            (SBAR (IN that)
+              (S
+                (NP (SYM d))
+                (VP (VB http)
+                  (NP (NN t) (NN co) (NNS csNI9AWGGb)))))))))))
+
+(ROOT
+  (S
+    (NP (NNP PETA))
+    (VP (VBZ pushes)
+      (PP (IN for)
+        (NP
+          (NP (JJ criminal) (NNS charges))
+          (PP (IN in)
+            (NP (NNP Iditarod) (NN dog) (NN death) (NN http) (NN t) (NN co) (NNS C3aOBbhkKa))))))))
+
+(ROOT
+  (S
+    (NP (NNP PETA))
+    (VP (VBZ pushes)
+      (PP (IN for)
+        (NP
+          (NP (JJ criminal) (NNS charges))
+          (PP (IN in)
+            (NP (NNP Iditarod) (NN dog) (NN death) (NN http) (NN t) (NN co) (NNS HsG2HlG2pf))))))))
+
+(ROOT
+  (SINV
+    (VP (VB Stand)
+      (PP (IN with)
+        (NP
+          (NP (NNP ALDF))
+          (PP (IN against)
+            (NP (DT this) (JJ cruel) (NN dog) (NN sled) (NN race))))))
+    (NP (NN http) (NN t) (NNP co) (NNP tT2w0gGTWk))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Iditarod) (NNPS Mushers) (NNP Kill) (NNS Thousands))
+      (PP (IN of)
+        (NP (NNS Dogs) (NNS Dogs))))
+    (VP (VBP are)
+      (VP (VBG hauling)
+        (NP
+          (NP (NNS sleds))
+          (PP (IN behind)
+            (NP (PRP them))))
+        (PP (IN in)
+          (NP (DT the) (NNP Iditarod) (NNP Trail) (NNP Sled) (NNP Dog) (NNP Rac) (NN http) (NN t) (NN co) (NN xrU5hp8cd4)))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NNP Dog))
+    (VP (VBZ Dies)
+      (SBAR
+        (S
+          (PP (IN In)
+            (NP (NNP Unalakleet) (NNP Alaska)))
+          (PP (IN After)
+            (NP (NNP Being) (NNP Dropped) (NNP Race) (NNP ANCHORAGE) (NNP Alaska)))
+          (NP (NNS Officials))
+          (VP (VBP say)
+            (NP (DT a) (NN dog))
+            (SBAR (IN that)
+              (S
+                (NP (SYM d))
+                (VP (VB http)
+                  (NP (NN t) (NN co) (NNS csNI9AWGGb)))))))))))
+
+(ROOT
+  (FRAG
+    (NP (NNP Iditarod) (NNP Dog) (NNP Dies))
+    (PP (IN In)
+      (NP (NNP Unalakleet) (NNP Alaska)))
+    (PP (IN After)
+      (NP (NNP Being) (NNP Dropped) (NNP Race) (NN http) (NN t) (NN co) (NNS V1uHKPhonp)))))
+
+(ROOT
+  (NP
+    (NP (NN http) (NN t) (NN co))
+    (NP
+      (NP (CD tQci8G6ZcA) (NNP Iditarod) (NNPS Mushers) (NNP Kill) (NNS Thousands))
+      (PP (IN of)
+        (NP (NNS Dogs))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NNS plans))
+    (VP (VBZ changes)
+      (SBAR (IN after)
+        (S
+          (NP (NN sled) (NN dog) (NN death) (NNS Changes))
+          (VP (VBP are)
+            (VP (VBN planned)
+              (PP (IN for)
+                (NP (NNP Alaska) (NNP s) (NNP Iditarod) (NNP Trail) (NNP Sled) (NNP Dog) (NNP Race) (NN fol) (NN http) (NN t) (NN co) (NN siqvcTgpmb))))))))))
+
+(ROOT
+  (FRAG
+    (NP (NNP Iditarod) (NNP Dog) (NNP Dies))
+    (PP (IN In)
+      (NP (NNP Unalakleet) (NNP Alaska)))
+    (PP (IN After)
+      (NP (NNP Being) (NNP Dropped) (NNP Race) (NN http) (NN t) (NN co) (NNS V1uHKPhonp)))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NNP Dog))
+    (VP (VBZ Dies)
+      (SBAR
+        (S
+          (PP (IN In)
+            (NP (NNP Unalakleet) (NNP Alaska)))
+          (PP (IN After)
+            (NP (NNP Being) (NNP Dropped) (NNP Race) (NNP ANCHORAGE) (NNP Alaska)))
+          (NP (NNS Officials))
+          (VP (VBP say)
+            (NP (DT a) (NN dog))
+            (SBAR (IN that)
+              (S
+                (NP (SYM d))
+                (VP (VB http)
+                  (NP (NN t) (NN co) (NNS csNI9AWGGb)))))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NNP Dog))
+    (VP (VBD Found)
+      (NP (CD 7) (NNS Days))
+      (PP (IN After)
+        (NP (NNP Disappearing)))
+      (PP (IN From)
+        (NP
+          (NP (JJ Team) (NN http) (NN t) (NN co) (NNS sR53aeGyTm))
+          (PP (IN via)
+            (NP (NNP ABC))))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (NNP AK) (NNP Disp) (NNP News) (NNP Featu) (NNP PETA))
+      (VP (VBZ urges)
+        (S
+          (NP (NNP Nome) (NNP DA))
+          (VP (TO to)
+            (VP (VB file)
+              (NP (JJ cruelty) (NNS charges))
+              (PP (IN over)
+                (NP (NNP Iditarod) (NN dog) (NNP s) (NN death) (NNP PETA))))))))
+    (VP (VBZ urges))
+    (NP (NNP Nome) (JJ http) (NN t) (NN co) (NNP TTNR6FF3fA) (NNP AK))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBD died)
+      (PP (IN of)
+        (NP
+          (NP (NN asphyxiation))
+          (VP (VBN buried)
+            (PP (IN in)
+              (NP (NN snow)))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBD died)
+      (PP (IN of)
+        (NP
+          (NP (NN asphyxiation))
+          (VP (VBN buried)
+            (PP (IN in)
+              (NP
+                (NP (NN snow) (NN Race) (NNS officials))
+                (VP (VBN disclosed)
+                  (NP
+                    (NP (DT the) (NNS results))
+                    (PP (IN of)
+                      (NP
+                        (NP (DT the) (NN necropsy))
+                        (PP (IN for)
+                          (NP
+                            (ADJP (CD 5) (NN year) (JJ old))
+                            (NNP Dorado)))))
+                    (SBAR
+                      (WHNP (WP who))
+                      (S
+                        (VP (VBP wa))))))))))))))
+
+(ROOT
+  (S
+    (NP (NNP SO) (NNP Tragic) (NNP Iditarod) (NN dog))
+    (VP (VBZ dies)
+      (SBAR (IN after)
+        (S
+          (NP (JJ frigid) (NN night))
+          (NP (JJ outside) (NNS charges))
+          (VP (VBP are)
+            (VP (VBN urged)
+              (NP (JJ http) (NN t) (NN co) (NNS DSaANi5wqH)))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NNS plans))
+    (VP (VBZ changes)
+      (SBAR (IN after)
+        (S
+          (NP (NN sled) (NN dog) (NN death) (NNP ANCHORAGE) (NNP Changes))
+          (VP (VBP are)
+            (VP (VBN planned)
+              (PP (IN for)
+                (NP (NNP Alaska) (NNP s) (NNP Iditarod) (NNP Trail) (NNP Sled) (NNP Dog) (NN http) (NN t) (NN co) (NN Nji4c8TwU4))))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBD died)
+      (PP (IN of)
+        (NP
+          (NP (NN asphyxiation))
+          (VP (VBN buried)
+            (PP (IN in)
+              (NP
+                (NP (NN snow) (NN Race) (NNS officials))
+                (VP (VBN disclosed)
+                  (NP
+                    (NP (DT the) (NNS results))
+                    (PP (IN of)
+                      (NP
+                        (NP (DT the) (NN necropsy))
+                        (PP (IN for)
+                          (NP
+                            (ADJP (CD 5) (NN year) (JJ old))
+                            (NNP Dorado)))))
+                    (SBAR
+                      (WHNP (WP who))
+                      (S
+                        (VP (VBP wa))))))))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBZ dies)
+      (PP (IN after)
+        (S
+          (VP (VBG being)
+            (VP (VBN buried)
+              (PP (IN in)
+                (NP (NN snow) (NN http) (NN t) (NN co) (NNS cTaSYZKFpx))))))))))
+
+(ROOT
+  (S
+    (NP (JJ Activist) (NN group))
+    (VP (VBZ seeks)
+      (NP
+        (NP (NNS charges))
+        (PP (IN in)
+          (NP (NNP Iditarod) (NN dog) (NN death) (NN http) (NN t) (NN co) (NNS DxjUViw0fo)))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (NNP FirstWorldProblems) (NNP PETA))
+      (VP (VBZ seeks)
+        (NP (JJ criminal) (NNS charges))
+        (PP (IN in)
+          (NP
+            (NP (NN death))
+            (PP (IN of)
+              (NP (NN dog)))))))
+    (VP (VBD dropped)
+      (PP (IN from)
+        (NP (NNP Iditarod) (NNP Trail) (NNP Sled) (NNP Dog) (NNP Race))))
+    (NP (NN http) (NN t) (NNP co) (NNP 5anpgWazOy))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBD died)
+      (PP (IN of)
+        (NP
+          (NP (NN asphyxiation))
+          (VP (VBN buried)
+            (PP (IN in)
+              (NP
+                (NP (NN snow) (NN Race) (NNS officials))
+                (VP (VBN disclosed)
+                  (NP
+                    (NP (DT the) (NNS results))
+                    (PP (IN of)
+                      (NP
+                        (NP (DT the) (NN necropsy))
+                        (PP (IN for)
+                          (NP
+                            (ADJP (CD 5) (NN year) (JJ old))
+                            (NNP Dorado)))))
+                    (SBAR
+                      (WHNP (WP who))
+                      (S
+                        (VP (VBP wa))))))))))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (NNP Iditarod) (NN dog))
+      (VP (VBZ dies)
+        (PP (IN after)
+          (S
+            (VP (VBG being)
+              (VP (VBN buried)
+                (PP (IN in)
+                  (NP (NN snow)))
+                (PP
+                  (ADVP
+                    (NP (DT A) (NN dog))
+                    (RB left))
+                  (IN behind) (IN at)
+                  (NP
+                    (NP (DT a) (NN checkpoint))
+                    (PP (IN in)
+                      (NP (NNP Alaska)))))))))))
+    (VP (VBD was)
+      (ADJP (JJ smothe)))
+    (NP (NN http) (NN t) (NN co) (NNP s47iVida8O) (NNP thuggish))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod))
+    (VP (VBZ s)
+      (NP
+        (NP (NNP Berkowitz))
+        (PP (IN in)
+          (NP
+            (NP (NNP White) (NNP Mountain))
+            (SBAR
+              (S
+                (NP
+                  (NP (DT The) (JJ last) (NN thing) (NN I) (NN m))
+                  (VP (VBG going)
+                    (S
+                      (VP (TO to)
+                        (VP (VB do))))))
+                (VP (VBZ is)
+                  (S
+                    (VP (VB drive)
+                      (NP (PRP$ my) (NNS dogs))
+                      (ADVP (RB hard)
+                        (NP (DT the) (JJ last) (CD 70) (NNS miles)))
+                      (VP (VB http)
+                        (NP (NN t) (NN co) (NNS zRBv8F6Ghh))))))))))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Iditarod) (NN dog))
+      (VP (VBG awaiting)
+        (NP
+          (NP (NN transport))
+          (PP (TO to)
+            (NP (NNP Anchorage))))
+        (PP (IN after)
+          (S
+            (VP (VBG dropping)
+              (PP (IN from)
+                (NP (NN race))))))))
+    (VP (VBZ dies)
+      (PP (IN in)
+        (NP
+          (NP (DT The)
+            (ADJP (CD 5) (NN year) (JJ old))
+            (NN dog))
+          (VP (VBN named)
+            (S
+              (VP (VB Do)
+                (NP (JJ http) (NN t) (NN co) (NNS Y8XEtcOfza))))))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Iditarod) (NNPS Mushers) (NNP Kill) (NNS Thousands))
+      (PP (IN of)
+        (NP (NNS Dogs) (NNS Dogs))))
+    (VP (VBP are)
+      (VP (VBG hauling)
+        (NP
+          (NP (NNS sleds))
+          (PP (IN behind)
+            (NP (PRP them))))
+        (PP (IN in)
+          (NP (DT the) (NNP Iditarod) (NNP Trail) (NNP Sled) (NNP Dog) (NNP Rac) (NN http) (NN t) (NN co) (NN xrU5hp8cd4)))))))
+
+(ROOT
+  (NP
+    (NP (NN http) (NN t) (NN co))
+    (NP
+      (NP (CD tQci8G6ZcA) (NNP Iditarod) (NNPS Mushers) (NNP Kill) (NNS Thousands))
+      (PP (IN of)
+        (NP (NNS Dogs))))))
+
+(ROOT
+  (X
+    (X
+      (ADVP (RB Finally))
+      (NP (DT a) (JJ Happy) (NN Ending)))
+    (NP
+      (SQ
+        (PP (IN at)
+          (NP (NNP Iditarod) (NNP A) (NNP Lost) (NNP Dog)))
+        (VBZ Is)
+        (NP (NNP Found))
+        (PP (IN After)
+          (NP
+            (NP (CD 7) (NNS Days))
+            (PP (IN via)
+              (NP (NNP Dogster))))))
+      (VP (VB http)
+        (NP (NN t) (NN co) (NNS gRKDtB9VNP))))))
+
+(ROOT
+  (SINV
+    (VP (VB Stand)
+      (PP (IN with)
+        (NP
+          (NP (NNP ALDF))
+          (PP (IN against)
+            (NP (DT this) (JJ cruel) (NN dog) (NN sled) (NN race))))))
+    (NP (NN http) (NN t) (NNP co) (NNP tT2w0gGTWk))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (JJ Activist) (NN group))
+      (VP (VBZ seeks)
+        (NP
+          (NP (NNS charges))
+          (PP (IN in)
+            (NP (NNP Iditarod) (NN dog) (NN death) (NNP PETA))))))
+    (VP (VBZ has)
+      (ADVP (RB long))
+      (VP (VBN criticized)
+        (NP (DT the)
+          (ADJP
+            (QP (CD 1) (CD 000)))
+          (NN mile) (JJ Alaskan) (NN sled))))
+    (NP (NN race) (NN http) (NN t) (NNP co) (NNP 2pEQbAzXy2))))
+
+(ROOT
+  (S
+    (NP (JJ Activist) (NN group))
+    (VP (VBZ seeks)
+      (NP
+        (NP (NNS charges))
+        (PP (IN in)
+          (NP (JJ Iditarod) (NN dog) (NN death) (NN http) (NN t) (NN co) (NN eJYpaOWBnB)))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Iditarod) (NN dog))
+      (VP (VBG awaiting)
+        (NP
+          (NP (NN transport))
+          (PP (TO to)
+            (NP (NNP Anchorage))))
+        (PP (IN after)
+          (S
+            (VP (VBG dropping)
+              (PP (IN from)
+                (NP (NN race))))))))
+    (VP (VBZ dies)
+      (PP (IN in)
+        (NP
+          (NP (DT The)
+            (ADJP (CD 5) (NN year) (JJ old))
+            (NN dog))
+          (VP (VBN named)
+            (S
+              (VP (VB Do)
+                (NP (JJ http) (NN t) (NN co) (NNS Y8XEtcOfza))))))))))
+
+(ROOT
+  (S
+    (NP (NNP SO) (NNP Tragic) (NNP Iditarod) (NN dog))
+    (VP (VBZ dies)
+      (SBAR (IN after)
+        (S
+          (NP (JJ frigid) (NN night))
+          (NP (JJ outside) (NNS charges))
+          (VP (VBP are)
+            (VP (VBN urged)
+              (NP (JJ http) (NN t) (NN co) (NNS DSaANi5wqH)))))))))
+
+(ROOT
+  (NP
+    (NP (NNP Iditarod) (NNP Dog) (NNP Found))
+    (NP
+      (NP (CD 7)
+        (NAC
+          (NP (NNS Days))
+          (PP (IN After)
+            (NP (NNP Disappearing)))
+          (PP (IN From)
+            (NP (NNP Team) (NNP ABC) (NNP News) (NNP Blogs) (NNP Yahoo) (NN http) (NN t))))
+        (NN co) (NNS nriV3kH40I))
+      (PP (IN via)
+        (NP (NNP YahooNews))))))
+
+(ROOT
+  (X
+    (X
+      (ADVP (RB Finally))
+      (NP (DT a) (JJ Happy) (NN Ending)))
+    (NP
+      (SQ
+        (PP (IN at)
+          (NP (NNP Iditarod) (NNP A) (NNP Lost) (NNP Dog)))
+        (VBZ Is)
+        (NP (NNP Found))
+        (PP (IN After)
+          (NP
+            (NP (CD 7) (NNS Days))
+            (PP (IN via)
+              (NP (NNP Dogster))))))
+      (VP (VB http)
+        (NP (NN t) (NN co) (NNS gRKDtB9VNP))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NN Love))
+      (PP (IN of)
+        (NP
+          (NP (NN sport))
+          (PP (RB not)
+            (NP (NN money))))))
+    (VP (VBZ draws)
+      (S
+        (NP (NNP Iditarod) (NNS mushers))
+        (VP (VB http)
+          (NP (NN t) (NN co) (NNS nGOXML0Gb5)))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (JJ Activist) (NN group))
+      (VP (VBZ seeks)
+        (NP
+          (NP (NNS charges))
+          (PP (IN in)
+            (NP (NNP Iditarod) (NN dog) (NN death) (NNP PETA))))))
+    (VP (VBZ has)
+      (ADVP (RB long))
+      (VP (VBN criticized)
+        (NP (DT the)
+          (ADJP
+            (QP (CD 1) (CD 000)))
+          (NN mile) (JJ Alaskan) (NN sled))))
+    (NP (NN race) (NN http) (NN t) (NNP co) (NNP 2pEQbAzXy2))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NNS plans))
+    (VP (VBZ changes)
+      (SBAR (IN after)
+        (S
+          (NP (NN sled) (NN dog) (NN death) (NNP ANCHORAGE) (NNP Changes))
+          (VP (VBP are)
+            (VP (VBN planned)
+              (PP (IN for)
+                (NP (NNP Alaska) (NNP s) (NNP Iditarod) (NNP Trail) (NNP Sled) (NNP Dog) (NN http) (NN t) (NN co) (NN Nji4c8TwU4))))))))))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ s)
+      (PP (IN About)
+        (NP (NNP Time) (NNP Iditarod) (NNPS Plans) (NNP Changes)))
+      (PP (IN After)
+        (NP (NNP Sled) (NNP Dog) (NNP s) (NNP Death) (NN http) (NN t) (NN co) (NN hSggyUJrsO))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NNS plans))
+    (VP (VBZ changes)
+      (SBAR (IN after)
+        (S
+          (NP (NN sled) (NN dog) (NN death) (NNS Changes))
+          (VP (VBP are)
+            (VP (VBN planned)
+              (PP (IN for)
+                (NP (NNP Alaska) (NNP s) (NNP Iditarod) (NNP Trail) (NNP Sled) (NNP Dog) (NNP Race) (NN fol) (NN http) (NN t) (NN co) (NN siqvcTgpmb))))))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (NNP FirstWorldProblems) (NNP PETA))
+      (VP (VBZ seeks)
+        (NP (JJ criminal) (NNS charges))
+        (PP (IN in)
+          (NP
+            (NP (NN death))
+            (PP (IN of)
+              (NP (NN dog)))))))
+    (VP (VBD dropped)
+      (PP (IN from)
+        (NP (NNP Iditarod) (NNP Trail) (NNP Sled) (NNP Dog) (NNP Race))))
+    (NP (NN http) (NN t) (NNP co) (NNP 5anpgWazOy))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NNP Dog))
+    (VP (VBZ Dies)
+      (SBAR
+        (S
+          (PP (IN In)
+            (NP (NNP Unalakleet) (NNP Alaska)))
+          (PP (IN After)
+            (NP (NNP Being) (NNP Dropped) (NNP Race) (NNP ANCHORAGE) (NNP Alaska)))
+          (NP (NNS Officials))
+          (VP (VBP say)
+            (NP (DT a) (NN dog))
+            (SBAR (IN that)
+              (S
+                (NP (SYM d))
+                (VP (VB http)
+                  (NP (NN t) (NN co) (NNS csNI9AWGGb)))))))))))
+
+(ROOT
+  (FRAG
+    (NP (NNP Iditarod) (NNP Dog) (NNP Dies))
+    (PP (IN In)
+      (NP (NNP Unalakleet) (NNP Alaska)))
+    (PP (IN After)
+      (NP (NNP Being) (NNP Dropped) (NNP Race) (NN http) (NN t) (NN co) (NNS V1uHKPhonp)))))
+
+(ROOT
+  (SBARQ
+    (WHNP
+      (NP (NNP Iditarod) (NNP Tragedy) (NNP Dog) (NNP Suffocates))
+      (PP (IN Under)
+        (NP (NNP Snow))))
+    (SQ (MD Will)
+      (NP (NNP Justice))
+      (VP (VB Be)
+        (VP (VBN Served)
+          (SBAR
+            (S
+              (PP (IN In)
+                (NP
+                  (NP (NN light))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT the) (NN death))
+                      (PP (IN of)
+                        (NP (NNP Dorado)))))))
+              (NP (DT a) (CD 5) (NN year) (NN http) (NN t))
+              (VP (VBP co)
+                (NP (CD j4gZDmz1eM))))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod))
+    (VP (VBZ s)
+      (NP
+        (NP (NNP Berkowitz))
+        (PP (IN in)
+          (NP
+            (NP (NNP White) (NNP Mountain))
+            (SBAR
+              (S
+                (NP
+                  (NP (DT The) (JJ last) (NN thing) (NN I) (NN m))
+                  (VP (VBG going)
+                    (S
+                      (VP (TO to)
+                        (VP (VB do))))))
+                (VP (VBZ is)
+                  (S
+                    (VP (VB drive)
+                      (NP (PRP$ my) (NNS dogs))
+                      (ADVP (RB hard)
+                        (NP (DT the) (JJ last) (CD 70) (NNS miles)))
+                      (VP (VB http)
+                        (NP (NN t) (NN co) (NNS zRBv8F6Ghh))))))))))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Animal) (NNP Legal) (NNP Defense) (NNP Fund) (NNP Cruelty))
+      (PP (TO to)
+        (NP (NNP Alaska))))
+    (VP (VBZ s)
+      (NP
+        (NP (NNP Sled) (NNS Dogs))
+        (PP (IN in)
+          (NP (DT the) (NNP Iditarod) (NN http) (NN t) (NN co) (NNS nq3hCNlMll)))
+        (PP (IN via)
+          (NP (NNP ALDF)))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Animal) (NNP Legal) (NNP Defense) (NNP Fund) (NNP Cruelty))
+      (PP (TO to)
+        (NP (NNP Alaska))))
+    (VP (VBZ s)
+      (NP
+        (NP (NNP Sled) (NNS Dogs))
+        (PP (IN in)
+          (NP (DT the) (NNP Iditarod) (NN http) (NN t) (NN co) (NN gieDixtfix)))
+        (PP (IN via)
+          (NP (NNP ALDF)))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NNP Dog))
+    (VP (VBZ Dies)
+      (SBAR
+        (S
+          (PP (IN In)
+            (NP (NNP Unalakleet) (NNP Alaska)))
+          (PP (IN After)
+            (NP (NNP Being) (NNP Dropped) (NNP Race) (NNP ANCHORAGE) (NNP Alaska)))
+          (NP (NNS Officials))
+          (VP (VBP say)
+            (NP (DT a) (NN dog))
+            (SBAR (IN that)
+              (S
+                (NP (SYM d))
+                (VP (VB http)
+                  (NP (NN t) (NN co) (NNS csNI9AWGGb)))))))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NN Love))
+      (PP (IN of)
+        (NP
+          (NP (NN sport))
+          (PP (RB not)
+            (NP (NN money))))))
+    (VP (VBZ draws)
+      (S
+        (NP (NNP Iditarod) (NNS mushers))
+        (VP (VB http)
+          (NP (NN t) (NN co) (NNS nGOXML0Gb5)))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBD died)
+      (PP (IN of)
+        (NP
+          (NP (NN asphyxiation))
+          (VP (VBN buried)
+            (PP (IN in)
+              (NP
+                (NP (NN snow) (NN Race) (NNS officials))
+                (VP (VBN disclosed)
+                  (NP
+                    (NP (DT the) (NNS results))
+                    (PP (IN of)
+                      (NP
+                        (NP (DT the) (NN necropsy))
+                        (PP (IN for)
+                          (NP
+                            (ADJP (CD 5) (NN year) (JJ old))
+                            (NNP Dorado)))))
+                    (SBAR
+                      (WHNP (WP who))
+                      (S
+                        (VP (VBP wa))))))))))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (NNP Iditarod) (NN dog))
+      (VP (VBZ dies)
+        (PP (IN after)
+          (S
+            (VP (VBG being)
+              (VP (VBN buried)
+                (PP (IN in)
+                  (NP (NN snow)))
+                (PP
+                  (ADVP
+                    (NP (DT A) (NN dog))
+                    (RB left))
+                  (IN behind) (IN at)
+                  (NP
+                    (NP (DT a) (NN checkpoint))
+                    (PP (IN in)
+                      (NP (NNP Alaska)))))))))))
+    (VP (VBD was)
+      (ADJP (JJ smothe)))
+    (NP (NN http) (NN t) (NN co) (NNP s47iVida8O) (NNP thuggish))))
+
+(ROOT
+  (NP
+    (NP (NN http) (NN t) (NN co))
+    (NP
+      (NP (CD tQci8G6ZcA) (NNP Iditarod) (NNPS Mushers) (NNP Kill) (NNS Thousands))
+      (PP (IN of)
+        (NP (NNS Dogs))))))
+
+(ROOT
+  (FRAG
+    (NP (NNP One) (NNP Mean) (NNP Dance) (NNP Partner))
+    (SBAR
+      (WHADVP (WRB How))
+      (S
+        (NP (NNP Mother) (NNP Nature))
+        (VP (VBZ Twirls)
+          (NP
+            (NP (DT the) (NNP Sport))
+            (PP (IN of)
+              (NP (NNP Dog) (NNP Mushing) (NN http) (NN t) (NNP co) (NNP LmLUMOec50) (NNP Iditarod)))))))))
+
+(ROOT
+  (NP
+    (NP (NNP Iditarod) (NNPS Mushers) (NNP Kill))
+    (NP
+      (NP (NNS Thousands))
+      (PP (IN of)
+        (NP (NNS Dogs))))
+    (NP (NN http) (NN t) (NN co) (NNS F948MiqgGL))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Iditarod) (NNPS Mushers) (NNP Kill) (NNS Thousands))
+      (PP (IN of)
+        (NP (NNS Dogs) (NNS Dogs))))
+    (VP (VBP are)
+      (VP (VBG hauling)
+        (NP
+          (NP (NNS sleds))
+          (PP (IN behind)
+            (NP (PRP them))))
+        (PP (IN in)
+          (NP (DT the) (NNP Iditarod) (NNP Trail) (NNP Sled) (NNP Dog) (NNP Rac) (NN http) (NN t) (NN co) (NN xrU5hp8cd4)))))))
+
+(ROOT
+  (FRAG
+    (NP (NNP One) (NNP Mean) (NNP Dance) (NNP Partner))
+    (SBAR
+      (WHADVP (WRB How))
+      (S
+        (NP (NNP Mother) (NNP Nature))
+        (VP (VBZ Twirls)
+          (NP
+            (NP (DT the) (NNP Sport))
+            (PP (IN of)
+              (NP (NNP Dog) (NNP Mushing) (NN http) (NN t) (NNP co) (NNP LmLUMOec50) (NNP Iditarod)))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod))
+    (VP (VBZ s)
+      (NP
+        (NP (NNP Berkowitz))
+        (PP (IN in)
+          (NP
+            (NP (NNP White) (NNP Mountain))
+            (SBAR
+              (S
+                (NP
+                  (NP (DT The) (JJ last) (NN thing) (NN I) (NN m))
+                  (VP (VBG going)
+                    (S
+                      (VP (TO to)
+                        (VP (VB do))))))
+                (VP (VBZ is)
+                  (S
+                    (VP (VB drive)
+                      (NP (PRP$ my) (NNS dogs))
+                      (ADVP (RB hard)
+                        (NP (DT the) (JJ last) (CD 70) (NNS miles)))
+                      (VP (VB http)
+                        (NP (NN t) (NN co) (NNS zRBv8F6Ghh))))))))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBD died)
+      (PP (IN of)
+        (NP
+          (NP (NN asphyxiation))
+          (VP (VBN buried)
+            (PP (IN in)
+              (NP
+                (NP (NN snow) (NN Race) (NNS officials))
+                (VP (VBN disclosed)
+                  (NP
+                    (NP (DT the) (NNS results))
+                    (PP (IN of)
+                      (NP
+                        (NP (DT the) (NN necropsy))
+                        (PP (IN for)
+                          (NP
+                            (ADJP (CD 5) (NN year) (JJ old))
+                            (NNP Dorado)))))
+                    (SBAR
+                      (WHNP (WP who))
+                      (S
+                        (VP (VBP wa))))))))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBZ dies)
+      (PP (IN after)
+        (S
+          (VP (VBG being)
+            (VP (VBN buried)
+              (PP (IN by)
+                (NP (NN snow))))))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP
+        (NP (NNP Iditarod) (NN dog))
+        (VP (VBG missing)
+          (NP (CD 5) (NNS days))))
+      (VP (VBD found)
+        (NP (JJ alive) (NNP BIG) (NNP LAKE) (NNP Alaska))
+        (NP (NNP March) (CD 15))))
+    (VP (VBP UPI)
+      (NP
+        (NP (DT A) (NN sled) (NN dog))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD went)
+              (S
+                (VP (VBG missing)
+                  (X
+                    (NP (SYM d))))))))))
+    (NP (NN http) (NN t) (NNP co) (NNP QJOHOeMbNN))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBZ dies)
+      (SBAR (IN after)
+        (S
+          (S
+            (VP (VBG being)
+              (VP (VBN buried)
+                (PP (IN in)
+                  (NP (NN snow)))
+                (PP
+                  (ADVP
+                    (NP (DT A) (NN dog))
+                    (RB left))
+                  (IN behind) (IN at)
+                  (NP
+                    (NP (DT a) (NN checkpoint))
+                    (PP (IN in)
+                      (NP (NNP Alaska))))))))
+          (VP (VBD was)
+            (VP (VBN smothered)
+              (PP (IN by)
+                (NP (NN win) (NN http) (NN t) (NN co) (NNS 5wM23GXeV1))))))))))
+
+(ROOT
+  (S
+    (NP (JJ Criminal) (NNS charges))
+    (VP (VBN sought)
+      (PP (IN in)
+        (NP (NNP Iditarod) (NN dog) (NN death) (NN http) (NN t) (NN co) (NNS Gza0uQm5PV))))))
+
+(ROOT
+  (S
+    (NP (JJ Criminal) (NNS charges))
+    (VP (VBN sought)
+      (PP (IN in)
+        (NP (NNP Iditarod) (NN dog) (NN death) (NN http) (NN t) (NN co) (NNS legrbHuEuI))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBD died)
+      (PP (IN of)
+        (NP
+          (NP (NN asphyxiation))
+          (VP (VBN buried)
+            (PP (IN in)
+              (NP (NN snow)))))))))
+
+(ROOT
+  (S
+    (NP (NNP SO) (NNP Tragic) (NNP Iditarod) (NN dog))
+    (VP (VBZ dies)
+      (SBAR (IN after)
+        (S
+          (NP (JJ frigid) (NN night))
+          (NP (JJ outside) (NNS charges))
+          (VP (VBP are)
+            (VP (VBN urged)
+              (NP (JJ http) (NN t) (NN co) (NNS DSaANi5wqH)))))))))
+
+(ROOT
+  (NP
+    (NP (NNP Iditarod) (NNP Dog) (NNP Found))
+    (NP
+      (NP (CD 7)
+        (NAC
+          (NP (NNS Days))
+          (PP (IN After)
+            (NP (NNP Disappearing)))
+          (PP (IN From)
+            (NP (NNP Team) (NNP ABC) (NNP News) (NNP Blogs) (NNP Yahoo) (NN http) (NN t))))
+        (NN co) (NNS nriV3kH40I))
+      (PP (IN via)
+        (NP (NNP YahooNews))))))
+
+(ROOT
+  (X
+    (X
+      (ADVP (RB Finally))
+      (NP (DT a) (JJ Happy) (NN Ending)))
+    (NP
+      (SQ
+        (PP (IN at)
+          (NP (NNP Iditarod) (NNP A) (NNP Lost) (NNP Dog)))
+        (VBZ Is)
+        (NP (NNP Found))
+        (PP (IN After)
+          (NP
+            (NP (CD 7) (NNS Days))
+            (PP (IN via)
+              (NP (NNP Dogster))))))
+      (VP (VB http)
+        (NP (NN t) (NN co) (NNS gRKDtB9VNP))))))
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNP Women) (NNPS Inmates) (NNP Care))
+      (PP (IN for)
+        (NP (NNP Iditarod) (NNS Dogs))))
+    (NP (NN http) (NN t) (NN co) (NNS R09Vr9YkI2))))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Burmeister) (NNS stays))
+      (PP (IN in)
+        (NP (NNP Takotna) (NNP Mackey))))
+    (VP (VBZ intends)
+      (S
+        (VP (TO to)
+          (VP (VB continue)
+            (S
+              (VP (TO to)
+                (VP (VB Iditarod)
+                  (NP (NN http) (NN t) (NN co) (NN zIJHiAfaQw)))))))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Animal) (NNP Legal) (NNP Defense) (NNP Fund) (NNP Cruelty))
+      (PP (TO to)
+        (NP (NNP Alaska))))
+    (VP (VBZ s)
+      (NP
+        (NP (NNP Sled) (NNS Dogs))
+        (PP (IN in)
+          (NP (DT the) (NNP Iditarod) (NN http) (NN t) (NN co) (NNS nq3hCNlMll)))
+        (PP (IN via)
+          (NP (NNP ALDF)))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Animal) (NNP Legal) (NNP Defense) (NNP Fund) (NNP Cruelty))
+      (PP (TO to)
+        (NP (NNP Alaska))))
+    (VP (VBZ s)
+      (NP
+        (NP (NNP Sled) (NNS Dogs))
+        (PP (IN in)
+          (NP (DT the) (NNP Iditarod) (NN http) (NN t) (NN co) (NN gieDixtfix)))
+        (PP (IN via)
+          (NP (NNP ALDF)))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NNP Dog))
+    (VP (VBD Found)
+      (NP (CD 7) (NNS Days))
+      (PP (IN After)
+        (NP (NNP Disappearing)))
+      (PP (IN From)
+        (NP
+          (NP (JJ Team) (NN http) (NN t) (NN co) (NNS sR53aeGyTm))
+          (PP (IN via)
+            (NP (NNP ABC))))))))
+
+(ROOT
+  (SINV
+    (VP (VB Stand)
+      (PP (IN with)
+        (NP
+          (NP (NNP ALDF))
+          (PP (IN against)
+            (NP (DT this) (JJ cruel) (NN dog) (NN sled) (NN race))))))
+    (NP (NN http) (NN t) (NNP co) (NNP tT2w0gGTWk))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (JJ Activist) (NN group))
+      (VP (VBZ seeks)
+        (NP
+          (NP (NNS charges))
+          (PP (IN in)
+            (NP (NNP Iditarod) (NN dog) (NN death) (NNP PETA))))))
+    (VP (VBZ has)
+      (ADVP (RB long))
+      (VP (VBN criticized)
+        (NP (DT the)
+          (ADJP
+            (QP (CD 1) (CD 000)))
+          (NN mile) (JJ Alaskan) (NN sled))))
+    (NP (NN race) (NN http) (NN t) (NNP co) (NNP 2pEQbAzXy2))))
+
+(ROOT
+  (S
+    (NP (JJ Activist) (NN group))
+    (VP (VBZ seeks)
+      (NP
+        (NP (NNS charges))
+        (PP (IN in)
+          (NP (NNP Iditarod) (NN dog) (NN death) (NN http) (NN t) (NN co) (NNS DxjUViw0fo)))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Iditarod) (NN dog))
+      (VP (VBG awaiting)
+        (NP
+          (NP (NN transport))
+          (PP (TO to)
+            (NP (NNP Anchorage))))
+        (PP (IN after)
+          (S
+            (VP (VBG dropping)
+              (PP (IN from)
+                (NP (NN race))))))))
+    (VP (VBZ dies)
+      (PP (IN in)
+        (NP
+          (NP (DT The)
+            (ADJP (CD 5) (NN year) (JJ old))
+            (NN dog))
+          (VP (VBN named)
+            (S
+              (VP (VB Do)
+                (NP (JJ http) (NN t) (NN co) (NNS Y8XEtcOfza))))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog) (NNP Dorado))
+    (VP (VBD found)
+      (NP
+        (NP
+          (ADJP (JJ dead)
+            (PP (IN in)
+              (NP
+                (NP (NN snow))
+                (PP (IN in)
+                  (NP
+                    (NP (NN town))
+                    (PP (IN of)
+                      (NP
+                        (NP (NNP Unalakeet) (NNP Alaska) (NNP News) (NNP FOX) (NNPS Sports))
+                        (PP (IN on)
+                          (NP (NNP MSN) (NN http) (NN t))))))))))
+          (NN co) (NNS 2EVyZvm3i4))
+        (PP (IN via)
+          (NP (NNP FoxSports)))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBD died)
+      (PP (IN of)
+        (NP
+          (NP (NN asphyxiation))
+          (VP (VBN buried)
+            (PP (IN in)
+              (NP (NN snow)))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBZ dies)
+      (PP (IN after)
+        (S
+          (VP (VBG being)
+            (VP (VBN buried)
+              (PP (IN by)
+                (NP (NN snow))))))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (NNP FirstWorldProblems) (NNP PETA))
+      (VP (VBZ seeks)
+        (NP (JJ criminal) (NNS charges))
+        (PP (IN in)
+          (NP
+            (NP (NN death))
+            (PP (IN of)
+              (NP (NN dog)))))))
+    (VP (VBD dropped)
+      (PP (IN from)
+        (NP (NNP Iditarod) (NNP Trail) (NNP Sled) (NNP Dog) (NNP Race))))
+    (NP (NN http) (NN t) (NNP co) (NNP 5anpgWazOy))))
+
+(ROOT
+  (SINV
+    (S
+      (NP
+        (NP (NNP Iditarod) (NN dog))
+        (VP (VBG missing)
+          (NP (CD 5) (NNS days))))
+      (VP (VBD found)
+        (NP (JJ alive) (NNP BIG) (NNP LAKE) (NNP Alaska))
+        (NP (NNP March) (CD 15))))
+    (VP (VBP UPI)
+      (NP
+        (NP (DT A) (NN sled) (NN dog))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD went)
+              (S
+                (VP (VBG missing)
+                  (X
+                    (NP (SYM d))))))))))
+    (NP (NN http) (NN t) (NNP co) (NNP QJOHOeMbNN))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NNP Dog))
+    (VP (VBD Found)
+      (NP (CD 7) (NNS Days))
+      (PP (IN After)
+        (NP (NNP Disappearing)))
+      (PP (IN From)
+        (NP
+          (NP (JJ Team) (NN http) (NN t) (NN co) (NNS S1RVAXrUAI))
+          (PP (IN via)
+            (NP (NNP ABC))))))))
+
+(ROOT
+  (X
+    (X
+      (ADVP (RB Finally))
+      (NP (DT a) (JJ Happy) (NN Ending)))
+    (NP
+      (SQ
+        (PP (IN at)
+          (NP (NNP Iditarod) (NNP A) (NNP Lost) (NNP Dog)))
+        (VBZ Is)
+        (NP (NNP Found))
+        (PP (IN After)
+          (NP
+            (NP (CD 7) (NNS Days))
+            (PP (IN via)
+              (NP (NNP Dogster))))))
+      (VP (VB http)
+        (NP (NN t) (NN co) (NNS gRKDtB9VNP))))))
+
+(ROOT
+  (S
+    (NP (NNP SO) (NNP Tragic) (NNP Iditarod) (NN dog))
+    (VP (VBZ dies)
+      (SBAR (IN after)
+        (S
+          (NP (JJ frigid) (NN night))
+          (NP (JJ outside) (NNS charges))
+          (VP (VBP are)
+            (VP (VBN urged)
+              (NP (JJ http) (NN t) (NN co) (NNS DSaANi5wqH)))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NNP Sled) (NNP Dog) (NNP Death) (NNP Will))
+    (VP (VBZ Lead)
+      (S
+        (VP (TO To)
+          (VP (VB Changes)
+            (S
+              (NP (NNP Race) (NNP Organizers))
+              (VP (VB Say)
+                (NP (NN http) (NN t))
+                (NP
+                  (NP (NN co) (NNS 1p3A8HOeHh))
+                  (PP (IN via)
+                    (NP (NNP HuffPostGreen))))))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NNP Dog))
+    (VP (VBD Found)
+      (NP (CD 7) (NNS Days))
+      (PP (IN After)
+        (NP (NNP Disappearing)))
+      (PP (IN From)
+        (NP
+          (NP (JJ Team) (NN http) (NN t) (NN co) (NNS S1RVAXrUAI))
+          (PP (IN via)
+            (NP (NNP ABC))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NNP Dog))
+    (VP (VBD Found)
+      (NP (CD 7) (NNS Days))
+      (PP (IN After)
+        (NP (NNP Disappearing)))
+      (PP (IN From)
+        (NP
+          (NP (JJ Team) (NN http) (NN t) (NN co) (NNS sR53aeGyTm))
+          (PP (IN via)
+            (NP (NNP ABC))))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NN Love))
+      (PP (IN of)
+        (NP
+          (NP (NN sport))
+          (PP (RB not)
+            (NP (NN money))))))
+    (VP (VBZ draws)
+      (S
+        (NP (NNP Iditarod) (NNS mushers))
+        (VP (VB http)
+          (NP (NN t) (NN co) (NNS nGOXML0Gb5)))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog) (NNP Dorado))
+    (VP (VBD found)
+      (NP
+        (NP
+          (ADJP (JJ dead)
+            (PP (IN in)
+              (NP
+                (NP (NN snow))
+                (PP (IN in)
+                  (NP
+                    (NP (NN town))
+                    (PP (IN of)
+                      (NP
+                        (NP (NNP Unalakeet) (NNP Alaska) (NNP News) (NNP FOX) (NNPS Sports))
+                        (PP (IN on)
+                          (NP (NNP MSN) (NN http) (NN t))))))))))
+          (NN co) (NNS 2EVyZvm3i4))
+        (PP (IN via)
+          (NP (NNP FoxSports)))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBZ dies)
+      (PP (IN after)
+        (S
+          (VP (VBG being)
+            (VP (VBN buried)
+              (PP (IN in)
+                (NP (NN snow) (NN http) (NN t) (NN co) (NNS cTaSYZKFpx))))))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (NNP Iditarod) (NN dog))
+      (VP (VBZ dies)
+        (PP (IN after)
+          (S
+            (VP (VBG being)
+              (VP (VBN buried)
+                (PP (IN in)
+                  (NP (NN snow)))
+                (PP
+                  (ADVP
+                    (NP (DT A) (NN dog))
+                    (RB left))
+                  (IN behind) (IN at)
+                  (NP
+                    (NP (DT a) (NN checkpoint))
+                    (PP (IN in)
+                      (NP (NNP Alaska)))))))))))
+    (VP (VBD was)
+      (ADJP (JJ smothe)))
+    (NP (NN http) (NN t) (NN co) (NNP s47iVida8O) (NNP thuggish))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod))
+    (VP (VBZ plans)
+      (NP (NNS changes))
+      (PP (IN after)
+        (NP (NN sled) (NN dog) (NN death) (NN http) (NN t) (NN co) (NNS LBGjsF9gcK))))))
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNP Women) (NNPS Inmates) (NNP Care))
+      (PP (IN for)
+        (NP (NNP Iditarod) (NNS Dogs))))
+    (NP (NN http) (NN t) (NN co) (NNS EsAZ9y9dNW))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBD died)
+      (PP (IN of)
+        (NP
+          (NP (NN asphyxiation))
+          (VP (VBN buried)
+            (PP (IN in)
+              (NP
+                (NP (NN snow) (NN Race) (NNS officials))
+                (VP (VBN disclosed)
+                  (NP
+                    (NP (DT the) (NNS results))
+                    (PP (IN of)
+                      (NP
+                        (NP (DT the) (NN necropsy))
+                        (PP (IN for)
+                          (NP
+                            (ADJP (CD 5) (NN year) (JJ old))
+                            (NNP Dorado)))))
+                    (SBAR
+                      (WHNP (WP who))
+                      (S
+                        (VP (VBP wa))))))))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBZ dies)
+      (PP (IN after)
+        (S
+          (VP (VBG being)
+            (VP (VBN buried)
+              (PP (IN by)
+                (NP (NN snow))))))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Burmeister) (NNS stays))
+      (PP (IN in)
+        (NP (NNP Takotna) (NNP Mackey))))
+    (VP (VBZ intends)
+      (S
+        (VP (TO to)
+          (VP (VB continue)
+            (S
+              (VP (TO to)
+                (VP (VB Iditarod)
+                  (NP (NN http) (NN t) (NN co) (NN zIJHiAfaQw)))))))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (NNP FirstWorldProblems) (NNP PETA))
+      (VP (VBZ seeks)
+        (NP (JJ criminal) (NNS charges))
+        (PP (IN in)
+          (NP
+            (NP (NN death))
+            (PP (IN of)
+              (NP (NN dog)))))))
+    (VP (VBD dropped)
+      (PP (IN from)
+        (NP (NNP Iditarod) (NNP Trail) (NNP Sled) (NNP Dog) (NNP Race))))
+    (NP (NN http) (NN t) (NNP co) (NNP 5anpgWazOy))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBZ dies)
+      (SBAR (IN after)
+        (S
+          (S
+            (VP (VBG being)
+              (VP (VBN buried)
+                (PP (IN in)
+                  (NP (NN snow)))
+                (PP
+                  (ADVP
+                    (NP (DT A) (NN dog))
+                    (RB left))
+                  (IN behind) (IN at)
+                  (NP
+                    (NP (DT a) (NN checkpoint))
+                    (PP (IN in)
+                      (NP (NNP Alaska))))))))
+          (VP (VBD was)
+            (VP (VBN smothered)
+              (PP (IN by)
+                (NP (NN win) (NN http) (NN t) (NN co) (NNS 5wM23GXeV1))))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBZ dies)
+      (PP (IN after)
+        (S
+          (VP (VBG being)
+            (VP (VBN buried)
+              (PP (IN by)
+                (NP (NN snow))))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NNP Dog))
+    (VP (VBD Found)
+      (NP (CD 7) (NNS Days))
+      (PP (IN After)
+        (NP (NNP Disappearing)))
+      (PP (IN From)
+        (NP
+          (NP (JJ Team) (NN http) (NN t) (NN co) (NNS sR53aeGyTm))
+          (PP (IN via)
+            (NP (NNP ABC))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod))
+    (VP (VBZ s)
+      (NP
+        (NP (NNP Berkowitz))
+        (PP (IN in)
+          (NP
+            (NP (NNP White) (NNP Mountain))
+            (SBAR
+              (S
+                (NP
+                  (NP (DT The) (JJ last) (NN thing) (NN I) (NN m))
+                  (VP (VBG going)
+                    (S
+                      (VP (TO to)
+                        (VP (VB do))))))
+                (VP (VBZ is)
+                  (S
+                    (VP (VB drive)
+                      (NP (PRP$ my) (NNS dogs))
+                      (ADVP (RB hard)
+                        (NP (DT the) (JJ last) (CD 70) (NNS miles)))
+                      (VP (VB http)
+                        (NP (NN t) (NN co) (NNS zRBv8F6Ghh))))))))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBZ dies)
+      (PP (IN after)
+        (S
+          (VP (VBG being)
+            (VP (VBN buried)
+              (PP (IN in)
+                (NP (NN snow) (NN http) (NN t) (NN co) (NNS cTaSYZKFpx))))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBD died)
+      (PP (IN of)
+        (NP
+          (NP (NN asphyxiation))
+          (VP (VBN buried)
+            (PP (IN in)
+              (NP
+                (NP (NN snow) (NN Race) (NNS officials))
+                (VP (VBN disclosed)
+                  (NP
+                    (NP (DT the) (NNS results))
+                    (PP (IN of)
+                      (NP
+                        (NP (DT the) (NN necropsy))
+                        (PP (IN for)
+                          (NP
+                            (ADJP (CD 5) (NN year) (JJ old))
+                            (NNP Dorado)))))
+                    (SBAR
+                      (WHNP (WP who))
+                      (S
+                        (VP (VBP wa))))))))))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (NNP AK) (NNP Disp) (NNP News) (NNP Featu) (NNP PETA))
+      (VP (VBZ urges)
+        (S
+          (NP (NNP Nome) (NNP DA))
+          (VP (TO to)
+            (VP (VB file)
+              (NP (JJ cruelty) (NNS charges))
+              (PP (IN over)
+                (NP (NNP Iditarod) (NN dog) (NNP s) (NN death) (NNP PETA))))))))
+    (VP (VBZ urges))
+    (NP (NNP Nome) (JJ http) (NN t) (NN co) (NNP TTNR6FF3fA) (NNP AK))))
+
+(ROOT
+  (SINV
+    (VP (VB Stand)
+      (PP (IN with)
+        (NP
+          (NP (NNP ALDF))
+          (PP (IN against)
+            (NP (DT this) (JJ cruel) (NN dog) (NN sled) (NN race))))))
+    (NP (NN http) (NN t) (NNP co) (NNP tT2w0gGTWk))))
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNP Women) (NNPS Inmates) (NNP Care))
+      (PP (IN for)
+        (NP (NNP Iditarod) (NNS Dogs))))
+    (NP (NN http) (NN t) (NN co) (NNS R09Vr9YkI2))))
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNP Women) (NNPS Inmates) (NNP Care))
+      (PP (IN for)
+        (NP (NNP Iditarod) (NNS Dogs))))
+    (NP (NN http) (NN t) (NN co) (NNS EsAZ9y9dNW))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod))
+    (VP (VBZ plans)
+      (NP (NNS changes))
+      (PP (IN after)
+        (NP (NN sled) (NN dog) (NN death) (NN http) (NN t) (NN co) (NNS LBGjsF9gcK))))))
+
+(ROOT
+  (X
+    (X
+      (ADVP (RB Finally))
+      (NP (DT a) (JJ Happy) (NN Ending)))
+    (NP
+      (SQ
+        (PP (IN at)
+          (NP (NNP Iditarod) (NNP A) (NNP Lost) (NNP Dog)))
+        (VBZ Is)
+        (NP (NNP Found))
+        (PP (IN After)
+          (NP
+            (NP (CD 7) (NNS Days))
+            (PP (IN via)
+              (NP (NNP Dogster))))))
+      (VP (VB http)
+        (NP (NN t) (NN co) (NNS gRKDtB9VNP))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (JJ Activist) (NN group))
+      (VP (VBZ seeks)
+        (NP
+          (NP (NNS charges))
+          (PP (IN in)
+            (NP (NNP Iditarod) (NN dog) (NN death) (NNP PETA))))))
+    (VP (VBZ has)
+      (ADVP (RB long))
+      (VP (VBN criticized)
+        (NP (DT the)
+          (ADJP
+            (QP (CD 1) (CD 000)))
+          (NN mile) (JJ Alaskan) (NN sled))))
+    (NP (NN race) (NN http) (NN t) (NNP co) (NNP 2pEQbAzXy2))))
+
+(ROOT
+  (S
+    (NP (JJ Activist) (NN group))
+    (VP (VBZ seeks)
+      (NP
+        (NP (NNS charges))
+        (PP (IN in)
+          (NP (JJ Iditarod) (NN dog) (NN death) (NN http) (NN t) (NN co) (NN eJYpaOWBnB)))))))
+
+(ROOT
+  (S
+    (NP (JJ Activist) (NN group))
+    (VP (VBZ seeks)
+      (NP
+        (NP (NNS charges))
+        (PP (IN in)
+          (NP (JJ Iditarod) (NN dog) (NN death) (NN http) (NN t) (NN co) (NN eJYpaOWBnB)))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Burmeister) (NNS stays))
+      (PP (IN in)
+        (NP (NNP Takotna) (NNP Mackey))))
+    (VP (VBZ intends)
+      (S
+        (VP (TO to)
+          (VP (VB continue)
+            (S
+              (VP (TO to)
+                (VP (VB Iditarod)
+                  (NP (NN http) (NN t) (NN co) (NN zIJHiAfaQw)))))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod))
+    (VP (VBZ plans)
+      (NP (NNS changes))
+      (PP (IN after)
+        (NP (NN sled) (NN dog) (NN death) (NN http) (NN t) (NN co) (NNS LBGjsF9gcK))))))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ s)
+      (PP (IN About)
+        (NP (NNP Time) (NNP Iditarod) (NNPS Plans) (NNP Changes)))
+      (PP (IN After)
+        (NP (NNP Sled) (NNP Dog) (NNP s) (NNP Death) (NN http) (NN t) (NN co) (NN hSggyUJrsO))))))
+
+(ROOT
+  (NP
+    (NP (NN http) (NN t) (NN co))
+    (NP
+      (NP (CD tQci8G6ZcA) (NNP Iditarod) (NNPS Mushers) (NNP Kill) (NNS Thousands))
+      (PP (IN of)
+        (NP (NNS Dogs))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NN Love))
+      (PP (IN of)
+        (NP
+          (NP (NN sport))
+          (PP (RB not)
+            (NP (NN money))))))
+    (VP (VBZ draws)
+      (S
+        (NP (NNP Iditarod) (NNS mushers))
+        (VP (VB http)
+          (NP (NN t) (NN co) (NNS nGOXML0Gb5)))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Animal) (NNP Legal) (NNP Defense) (NNP Fund) (NNP Cruelty))
+      (PP (TO to)
+        (NP (NNP Alaska))))
+    (VP (VBZ s)
+      (NP
+        (NP (NNP Sled) (NNS Dogs))
+        (PP (IN in)
+          (NP (DT the) (NNP Iditarod) (NN http) (NN t) (NN co) (NNS nq3hCNlMll)))
+        (PP (IN via)
+          (NP (NNP ALDF)))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Animal) (NNP Legal) (NNP Defense) (NNP Fund) (NNP Cruelty))
+      (PP (TO to)
+        (NP (NNP Alaska))))
+    (VP (VBZ s)
+      (NP
+        (NP (NNP Sled) (NNS Dogs))
+        (PP (IN in)
+          (NP (DT the) (NNP Iditarod) (NN http) (NN t) (NN co) (NN gieDixtfix)))
+        (PP (IN via)
+          (NP (NNP ALDF)))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (NNP AK) (NNP Disp) (NNP News) (NNP Featu) (NNP PETA))
+      (VP (VBZ urges)
+        (S
+          (NP (NNP Nome) (NNP DA))
+          (VP (TO to)
+            (VP (VB file)
+              (NP (JJ cruelty) (NNS charges))
+              (PP (IN over)
+                (NP (NNP Iditarod) (NN dog) (NNP s) (NN death) (NNP PETA))))))))
+    (VP (VBZ urges))
+    (NP (NNP Nome) (JJ http) (NN t) (NN co) (NNP TTNR6FF3fA) (NNP AK))))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Burmeister) (NNS stays))
+      (PP (IN in)
+        (NP (NNP Takotna) (NNP Mackey))))
+    (VP (VBZ intends)
+      (S
+        (VP (TO to)
+          (VP (VB continue)
+            (S
+              (VP (TO to)
+                (VP (VB Iditarod)
+                  (NP (NN http) (NN t) (NN co) (NN zIJHiAfaQw)))))))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (NNP Iditarod) (NN dog))
+      (VP (VBZ dies)
+        (PP (IN after)
+          (S
+            (VP (VBG being)
+              (VP (VBN buried)
+                (PP (IN in)
+                  (NP (NN snow)))
+                (PP
+                  (ADVP
+                    (NP (DT A) (NN dog))
+                    (RB left))
+                  (IN behind) (IN at)
+                  (NP
+                    (NP (DT a) (NN checkpoint))
+                    (PP (IN in)
+                      (NP (NNP Alaska)))))))))))
+    (VP (VBD was)
+      (ADJP (JJ smothe)))
+    (NP (NN http) (NN t) (NN co) (NNP s47iVida8O) (NNP thuggish))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBZ dies)
+      (PP (IN after)
+        (S
+          (VP (VBG being)
+            (VP (VBN buried)
+              (PP (IN by)
+                (NP (NN snow))))))))))
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNP Women) (NNPS Inmates) (NNP Care))
+      (PP (IN for)
+        (NP (NNP Iditarod) (NNS Dogs))))
+    (NP (NN http) (NN t) (NN co) (NNS EsAZ9y9dNW))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod))
+    (VP (VBZ plans)
+      (NP (NNS changes))
+      (PP (IN after)
+        (NP (NN sled) (NN dog) (NN death) (NN http) (NN t) (NN co) (NNS LBGjsF9gcK))))))
+
+(ROOT
+  (NP
+    (NP (NNP Iditarod) (NNPS Mushers) (NNP Kill))
+    (NP
+      (NP (NNS Thousands))
+      (PP (IN of)
+        (NP (NNS Dogs))))
+    (NP (NN http) (NN t) (NN co) (NNS F948MiqgGL))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Iditarod) (NNPS Mushers) (NNP Kill) (NNS Thousands))
+      (PP (IN of)
+        (NP (NNS Dogs) (NNS Dogs))))
+    (VP (VBP are)
+      (VP (VBG hauling)
+        (NP
+          (NP (NNS sleds))
+          (PP (IN behind)
+            (NP (PRP them))))
+        (PP (IN in)
+          (NP (DT the) (NNP Iditarod) (NNP Trail) (NNP Sled) (NNP Dog) (NNP Rac) (NN http) (NN t) (NN co) (NN xrU5hp8cd4)))))))
+
+(ROOT
+  (NP
+    (NP (NNP Iditarod) (NNPS Mushers) (NNP Kill))
+    (NP
+      (NP (NNS Thousands))
+      (PP (IN of)
+        (NP (NNS Dogs))))
+    (NP (NN http) (NN t) (NN co) (NNS F948MiqgGL))))
+
+(ROOT
+  (SINV
+    (VP (VB Stand)
+      (PP (IN with)
+        (NP
+          (NP (NNP ALDF))
+          (PP (IN against)
+            (NP (DT this) (JJ cruel) (NN dog) (NN sled) (NN race))))))
+    (NP (NN http) (NN t) (NNP co) (NNP tT2w0gGTWk))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (NNP Iditarod) (NN dog))
+      (VP (VBZ dies)
+        (PP (IN after)
+          (S
+            (VP (VBG being)
+              (VP (VBN buried)
+                (PP (IN in)
+                  (NP (NN snow)))
+                (PP
+                  (ADVP
+                    (NP (DT A) (NN dog))
+                    (RB left))
+                  (IN behind) (IN at)
+                  (NP
+                    (NP (DT a) (NN checkpoint))
+                    (PP (IN in)
+                      (NP (NNP Alaska)))))))))))
+    (VP (VBD was)
+      (ADJP (JJ smothe)))
+    (NP (NN http) (NN t) (NN co) (NNP s47iVida8O) (NNP thuggish))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBZ dies)
+      (SBAR (IN after)
+        (S
+          (S
+            (VP (VBG being)
+              (VP (VBN buried)
+                (PP (IN in)
+                  (NP (NN snow)))
+                (PP
+                  (ADVP
+                    (NP (DT A) (NN dog))
+                    (RB left))
+                  (IN behind) (IN at)
+                  (NP
+                    (NP (DT a) (NN checkpoint))
+                    (PP (IN in)
+                      (NP (NNP Alaska))))))))
+          (VP (VBD was)
+            (VP (VBN smothered)
+              (PP (IN by)
+                (NP (NN win) (NN http) (NN t) (NN co) (NNS 5wM23GXeV1))))))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Burmeister) (NNS stays))
+      (PP (IN in)
+        (NP (NNP Takotna) (NNP Mackey))))
+    (VP (VBZ intends)
+      (S
+        (VP (TO to)
+          (VP (VB continue)
+            (S
+              (VP (TO to)
+                (VP (VB Iditarod)
+                  (NP (NN http) (NN t) (NN co) (NN zIJHiAfaQw)))))))))))
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNP Women) (NNPS Inmates) (NNP Care))
+      (PP (IN for)
+        (NP (NNP Iditarod) (NNS Dogs))))
+    (NP (NN http) (NN t) (NN co) (NNS R09Vr9YkI2))))
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNP Women) (NNPS Inmates) (NNP Care))
+      (PP (IN for)
+        (NP (NNP Iditarod) (NNS Dogs))))
+    (NP (NN http) (NN t) (NN co) (NNS R09Vr9YkI2))))
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNP Women) (NNPS Inmates) (NNP Care))
+      (PP (IN for)
+        (NP (NNP Iditarod) (NNS Dogs))))
+    (NP (NN http) (NN t) (NN co) (NNS EsAZ9y9dNW))))
+
+(ROOT
+  (S
+    (NP (JJ Activist) (NN group))
+    (VP (VBZ seeks)
+      (NP
+        (NP (NNS charges))
+        (PP (IN in)
+          (NP (JJ Iditarod) (NN dog) (NN death) (NN http) (NN t) (NN co) (NN eJYpaOWBnB)))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NNP Sled) (NNP Dog) (NNP Death) (NNP Will))
+    (VP (VBZ Lead)
+      (S
+        (VP (TO To)
+          (VP (VB Changes)
+            (S
+              (NP (NNP Race) (NNP Organizers))
+              (VP (VB Say)
+                (NP (NN http) (NN t))
+                (NP
+                  (NP (NN co) (NNS 1p3A8HOeHh))
+                  (PP (IN via)
+                    (NP (NNP HuffPostGreen))))))))))))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ s)
+      (PP (IN About)
+        (NP (NNP Time) (NNP Iditarod) (NNPS Plans) (NNP Changes)))
+      (PP (IN After)
+        (NP (NNP Sled) (NNP Dog) (NNP s) (NNP Death) (NN http) (NN t) (NN co) (NN hSggyUJrsO))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NNS plans))
+    (VP (VBZ changes)
+      (SBAR (IN after)
+        (S
+          (NP (NN sled) (NN dog) (NN death) (NNP ANCHORAGE) (NNP Changes))
+          (VP (VBP are)
+            (VP (VBN planned)
+              (PP (IN for)
+                (NP (NNP Alaska) (NNP s) (NNP Iditarod) (NNP Trail) (NNP Sled) (NNP Dog) (NN http) (NN t) (NN co) (NN Nji4c8TwU4))))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog) (NNP Dorado))
+    (VP (VBD found)
+      (NP
+        (NP
+          (ADJP (JJ dead)
+            (PP (IN in)
+              (NP
+                (NP (NN snow))
+                (PP (IN in)
+                  (NP
+                    (NP (NN town))
+                    (PP (IN of)
+                      (NP
+                        (NP (NNP Unalakeet) (NNP Alaska) (NNP News) (NNP FOX) (NNPS Sports))
+                        (PP (IN on)
+                          (NP (NNP MSN) (NN http) (NN t))))))))))
+          (NN co) (NNS 2EVyZvm3i4))
+        (PP (IN via)
+          (NP (NNP FoxSports)))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Iditarod) (NNP musher))
+      (SBAR
+        (WHNP (WP$ whose) (NN dog))
+        (S
+          (VP (VBD died)
+            (S
+              (VP (TO to)
+                (VP (VB sue)
+                  (NP (NNP PETA))
+                  (SBAR (IN unless)
+                    (S
+                      (NP (NN organization) (NNS retracts))
+                      (VP (VBZ comments)
+                        (S
+                          (VP (VBG blaming)
+                            (NP (DT the) (NN musher) (NN http))))))))))))))
+    (VP (VBP t)
+      (NP
+        (NP (NN co) (NNS fWc70up5Kn))
+        (PP (IN via)
+          (NP (NNS breakingnews)))))))
+
+(ROOT
+  (FRAG
+    (NP (NNP Iditarod) (NNP Dog) (NNP Dies))
+    (PP (IN In)
+      (NP (NNP Unalakleet) (NNP Alaska)))
+    (PP (IN After)
+      (NP (NNP Being) (NNP Dropped) (NNP Race) (NN http) (NN t) (NN co) (NNS V1uHKPhonp)))))
+
+(ROOT
+  (S
+    (NP (JJ latest) (NN news) (NNP Iditarod) (NNP Dog))
+    (VP (VBZ Dies)
+      (SBAR
+        (S
+          (PP (IN In)
+            (NP (NNP Unalakleet) (NNP Alaska)))
+          (PP (IN After)
+            (NP (NNP Being) (NNP Dropped) (NNP Race) (NNP ANCHORAGE) (NNP Alaska)))
+          (NP (NNS Officials) (NN http))
+          (VP (VBP t)
+            (NP (NN co) (NNS ueFtclJF55))))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (NNP FirstWorldProblems) (NNP PETA))
+      (VP (VBZ seeks)
+        (NP (JJ criminal) (NNS charges))
+        (PP (IN in)
+          (NP
+            (NP (NN death))
+            (PP (IN of)
+              (NP (NN dog)))))))
+    (VP (VBD dropped)
+      (PP (IN from)
+        (NP (NNP Iditarod) (NNP Trail) (NNP Sled) (NNP Dog) (NNP Race))))
+    (NP (NN http) (NN t) (NNP co) (NNP 5anpgWazOy))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (NNP AK) (NNP Disp) (NNP News) (NNP Featu) (NNP PETA))
+      (VP (VBZ urges)
+        (S
+          (NP (NNP Nome) (NNP DA))
+          (VP (TO to)
+            (VP (VB file)
+              (NP (JJ cruelty) (NNS charges))
+              (PP (IN over)
+                (NP (NNP Iditarod) (NN dog) (NNP s) (NN death) (NNP PETA))))))))
+    (VP (VBZ urges))
+    (NP (NNP Nome) (JJ http) (NN t) (NN co) (NNP TTNR6FF3fA) (NNP AK))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NNP Dog))
+    (VP (VBD Found)
+      (NP (CD 7) (NNS Days))
+      (PP (IN After)
+        (NP (NNP Disappearing)))
+      (PP (IN From)
+        (NP
+          (NP (JJ Team) (NN http) (NN t) (NN co) (NNS S1RVAXrUAI))
+          (PP (IN via)
+            (NP (NNP ABC))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NNP Dog))
+    (VP (VBD Found)
+      (NP (CD 7) (NNS Days))
+      (PP (IN After)
+        (NP (NNP Disappearing)))
+      (PP (IN From)
+        (NP
+          (NP (JJ Team) (NN http) (NN t) (NN co) (NNS sR53aeGyTm))
+          (PP (IN via)
+            (NP (NNP ABC))))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Burmeister) (NNS stays))
+      (PP (IN in)
+        (NP (NNP Takotna) (NNP Mackey))))
+    (VP (VBZ intends)
+      (S
+        (VP (TO to)
+          (VP (VB continue)
+            (S
+              (VP (TO to)
+                (VP (VB Iditarod)
+                  (NP (NN http) (NN t) (NN co) (NN zIJHiAfaQw)))))))))))
+
+(ROOT
+  (FRAG
+    (NP (NNP One) (NNP Mean) (NNP Dance) (NNP Partner))
+    (SBAR
+      (WHADVP (WRB How))
+      (S
+        (NP (NNP Mother) (NNP Nature))
+        (VP (VBZ Twirls)
+          (NP
+            (NP (DT the) (NNP Sport))
+            (PP (IN of)
+              (NP (NNP Dog) (NNP Mushing) (NN http) (NN t) (NNP co) (NNP LmLUMOec50) (NNP Iditarod)))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBZ dies)
+      (SBAR (IN after)
+        (S
+          (S
+            (VP (VBG being)
+              (VP (VBN buried)
+                (PP (IN in)
+                  (NP (NN snow)))
+                (PP
+                  (ADVP
+                    (NP (DT A) (NN dog))
+                    (RB left))
+                  (IN behind) (IN at)
+                  (NP
+                    (NP (DT a) (NN checkpoint))
+                    (PP (IN in)
+                      (NP (NNP Alaska))))))))
+          (VP (VBD was)
+            (VP (VBN smothered)
+              (PP (IN by)
+                (NP (NN win) (NN http) (NN t) (NN co) (NNS 5wM23GXeV1))))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBZ dies)
+      (PP (IN after)
+        (S
+          (VP (VBG being)
+            (VP (VBN buried)
+              (PP (IN in)
+                (NP (NN snow) (NN http) (NN t) (NN co) (NNS cTaSYZKFpx))))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog) (NNP Dorado))
+    (VP (VBD found)
+      (NP
+        (NP
+          (ADJP (JJ dead)
+            (PP (IN in)
+              (NP
+                (NP (NN snow))
+                (PP (IN in)
+                  (NP
+                    (NP (NN town))
+                    (PP (IN of)
+                      (NP
+                        (NP (NNP Unalakeet) (NNP Alaska) (NNP News) (NNP FOX) (NNPS Sports))
+                        (PP (IN on)
+                          (NP (NNP MSN) (NN http) (NN t))))))))))
+          (NN co) (NNS 2EVyZvm3i4))
+        (PP (IN via)
+          (NP (NNP FoxSports)))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (NNP FirstWorldProblems) (NNP PETA))
+      (VP (VBZ seeks)
+        (NP (JJ criminal) (NNS charges))
+        (PP (IN in)
+          (NP
+            (NP (NN death))
+            (PP (IN of)
+              (NP (NN dog)))))))
+    (VP (VBD dropped)
+      (PP (IN from)
+        (NP (NNP Iditarod) (NNP Trail) (NNP Sled) (NNP Dog) (NNP Race))))
+    (NP (NN http) (NN t) (NNP co) (NNP 5anpgWazOy))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Animal) (NNP Legal) (NNP Defense) (NNP Fund) (NNP Cruelty))
+      (PP (TO to)
+        (NP (NNP Alaska))))
+    (VP (VBZ s)
+      (NP
+        (NP (NNP Sled) (NNS Dogs))
+        (PP (IN in)
+          (NP (DT the) (NNP Iditarod) (NN http) (NN t) (NN co) (NNS nq3hCNlMll)))
+        (PP (IN via)
+          (NP (NNP ALDF)))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Animal) (NNP Legal) (NNP Defense) (NNP Fund) (NNP Cruelty))
+      (PP (TO to)
+        (NP (NNP Alaska))))
+    (VP (VBZ s)
+      (NP
+        (NP (NNP Sled) (NNS Dogs))
+        (PP (IN in)
+          (NP (DT the) (NNP Iditarod) (NN http) (NN t) (NN co) (NN gieDixtfix)))
+        (PP (IN via)
+          (NP (NNP ALDF)))))))
+
+(ROOT
+  (S
+    (NP (NNP SO) (NNP Tragic) (NNP Iditarod) (NN dog))
+    (VP (VBZ dies)
+      (SBAR (IN after)
+        (S
+          (NP (JJ frigid) (NN night))
+          (NP (JJ outside) (NNS charges))
+          (VP (VBP are)
+            (VP (VBN urged)
+              (NP (JJ http) (NN t) (NN co) (NNS DSaANi5wqH)))))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP
+        (NP (NNP Iditarod) (NN dog))
+        (VP (VBG missing)
+          (NP (CD 5) (NNS days))))
+      (VP (VBD found)
+        (NP (JJ alive) (NNP BIG) (NNP LAKE) (NNP Alaska))
+        (NP (NNP March) (CD 15))))
+    (VP (VBP UPI)
+      (NP
+        (NP (DT A) (NN sled) (NN dog))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD went)
+              (S
+                (VP (VBG missing)
+                  (X
+                    (NP (SYM d))))))))))
+    (NP (NN http) (NN t) (NNP co) (NNP QJOHOeMbNN))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (NNP Iditarod) (NN dog))
+      (VP (VBZ dies)
+        (PP (IN after)
+          (S
+            (VP (VBG being)
+              (VP (VBN buried)
+                (PP (IN in)
+                  (NP (NN snow)))
+                (PP
+                  (ADVP
+                    (NP (DT A) (NN dog))
+                    (RB left))
+                  (IN behind) (IN at)
+                  (NP
+                    (NP (DT a) (NN checkpoint))
+                    (PP (IN in)
+                      (NP (NNP Alaska)))))))))))
+    (VP (VBD was)
+      (ADJP (JJ smothe)))
+    (NP (NN http) (NN t) (NN co) (NNP s47iVida8O) (NNP thuggish))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBD died)
+      (PP (IN of)
+        (NP
+          (NP (NN asphyxiation))
+          (VP (VBN buried)
+            (PP (IN in)
+              (NP
+                (NP (NN snow) (NN Race) (NNS officials))
+                (VP (VBN disclosed)
+                  (NP
+                    (NP (DT the) (NNS results))
+                    (PP (IN of)
+                      (NP
+                        (NP (DT the) (NN necropsy))
+                        (PP (IN for)
+                          (NP
+                            (ADJP (CD 5) (NN year) (JJ old))
+                            (NNP Dorado)))))
+                    (SBAR
+                      (WHNP (WP who))
+                      (S
+                        (VP (VBP wa))))))))))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP
+        (NP (NNP Iditarod) (NN dog))
+        (VP (VBG missing)
+          (NP (CD 5) (NNS days))))
+      (VP (VBD found)
+        (NP (JJ alive) (NNP BIG) (NNP LAKE) (NNP Alaska))
+        (NP (NNP March) (CD 15))))
+    (VP (VBP UPI)
+      (NP
+        (NP (DT A) (NN sled) (NN dog))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD went)
+              (S
+                (VP (VBG missing)
+                  (X
+                    (NP (SYM d))))))))))
+    (NP (NN http) (NN t) (NNP co) (NNP QJOHOeMbNN))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Animal) (NNP Legal) (NNP Defense) (NNP Fund) (NNP Cruelty))
+      (PP (TO to)
+        (NP (NNP Alaska))))
+    (VP (VBZ s)
+      (NP
+        (NP (NNP Sled) (NNS Dogs))
+        (PP (IN in)
+          (NP (DT the) (NNP Iditarod) (NN http) (NN t) (NN co) (NN gieDixtfix)))
+        (PP (IN via)
+          (NP (NNP ALDF)))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NNS plans))
+    (VP (VBZ changes)
+      (SBAR (IN after)
+        (S
+          (NP (NN sled) (NN dog) (NN death) (NNP ANCHORAGE) (NNP Changes))
+          (VP (VBP are)
+            (VP (VBN planned)
+              (PP (IN for)
+                (NP (NNP Alaska) (NNP s) (NNP Iditarod) (NNP Trail) (NNP Sled) (NNP Dog) (NN http) (NN t) (NN co) (NN Nji4c8TwU4))))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod))
+    (VP (VBZ plans)
+      (NP (NNS changes))
+      (PP (IN after)
+        (NP (NN sled) (NN dog) (NN death) (NN http) (NN t) (NN co) (NNS LBGjsF9gcK))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP
+        (NP (NNP Iditarod) (NN dog))
+        (VP (VBG missing)
+          (NP (CD 5) (NNS days))))
+      (VP (VBD found)
+        (NP (JJ alive) (NNP BIG) (NNP LAKE) (NNP Alaska))
+        (NP (NNP March) (CD 15))))
+    (VP (VBP UPI)
+      (NP
+        (NP (DT A) (NN sled) (NN dog))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD went)
+              (S
+                (VP (VBG missing)
+                  (X
+                    (NP (SYM d))))))))))
+    (NP (NN http) (NN t) (NNP co) (NNP QJOHOeMbNN))))
+
+(ROOT
+  (FRAG
+    (NP (NNP One) (NNP Mean) (NNP Dance) (NNP Partner))
+    (SBAR
+      (WHADVP (WRB How))
+      (S
+        (NP (NNP Mother) (NNP Nature))
+        (VP (VBZ Twirls)
+          (NP
+            (NP (DT the) (NNP Sport))
+            (PP (IN of)
+              (NP (NNP Dog) (NNP Mushing) (NN http) (NN t) (NNP co) (NNP LmLUMOec50) (NNP Iditarod)))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBD died)
+      (PP (IN of)
+        (NP
+          (NP (NN asphyxiation))
+          (VP (VBN buried)
+            (PP (IN in)
+              (NP (NN snow)))))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (NNP Iditarod) (NN dog))
+      (VP (VBZ dies)
+        (PP (IN after)
+          (S
+            (VP (VBG being)
+              (VP (VBN buried)
+                (PP (IN in)
+                  (NP (NN snow)))
+                (PP
+                  (ADVP
+                    (NP (DT A) (NN dog))
+                    (RB left))
+                  (IN behind) (IN at)
+                  (NP
+                    (NP (DT a) (NN checkpoint))
+                    (PP (IN in)
+                      (NP (NNP Alaska)))))))))))
+    (VP (VBD was)
+      (ADJP (JJ smothe)))
+    (NP (NN http) (NN t) (NN co) (NNP s47iVida8O) (NNP thuggish))))
+
+(ROOT
+  (FRAG
+    (NP (NNP Iditarod) (NNP Dog) (NNP Dies))
+    (PP (IN In)
+      (NP (NNP Unalakleet) (NNP Alaska)))
+    (PP (IN After)
+      (NP (NNP Being) (NNP Dropped) (NNP Race) (NN http) (NN t) (NN co) (NNS V1uHKPhonp)))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NNS plans))
+    (VP (VBZ changes)
+      (SBAR (IN after)
+        (S
+          (NP (NN sled) (NN dog) (NN death) (NNP ANCHORAGE) (NNP Changes))
+          (VP (VBP are)
+            (VP (VBN planned)
+              (PP (IN for)
+                (NP (NNP Alaska) (NNP s) (NNP Iditarod) (NNP Trail) (NNP Sled) (NNP Dog) (NN http) (NN t) (NN co) (NN Nji4c8TwU4))))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBD died)
+      (PP (IN of)
+        (NP
+          (NP (NN asphyxiation))
+          (VP (VBN buried)
+            (PP (IN in)
+              (NP (NN snow)))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBZ dies)
+      (PP (IN after)
+        (S
+          (VP (VBG being)
+            (VP (VBN buried)
+              (PP (IN in)
+                (NP (NN snow) (NN http) (NN t) (NN co) (NNS cTaSYZKFpx))))))))))
+
+(ROOT
+  (S
+    (NP (JJ latest) (NN news) (NNP Iditarod) (NNP Dog))
+    (VP (VBZ Dies)
+      (SBAR
+        (S
+          (PP (IN In)
+            (NP (NNP Unalakleet) (NNP Alaska)))
+          (PP (IN After)
+            (NP (NNP Being) (NNP Dropped) (NNP Race) (NNP ANCHORAGE) (NNP Alaska)))
+          (NP (NNS Officials) (NN http))
+          (VP (VBP t)
+            (NP (NN co) (NNS ueFtclJF55))))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP
+        (NP (NNP Iditarod) (NN dog))
+        (VP (VBG missing)
+          (NP (CD 5) (NNS days))))
+      (VP (VBD found)
+        (NP (JJ alive) (NNP BIG) (NNP LAKE) (NNP Alaska))
+        (NP (NNP March) (CD 15))))
+    (VP (VBP UPI)
+      (NP
+        (NP (DT A) (NN sled) (NN dog))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD went)
+              (S
+                (VP (VBG missing)
+                  (X
+                    (NP (SYM d))))))))))
+    (NP (NN http) (NN t) (NNP co) (NNP QJOHOeMbNN))))
+
+(ROOT
+  (S
+    (NP (JJ Activist) (NN group))
+    (VP (VBZ seeks)
+      (NP
+        (NP (NNS charges))
+        (PP (IN in)
+          (NP (NNP Iditarod) (NN dog) (NN death) (NN http) (NN t) (NN co) (NNS DxjUViw0fo)))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (JJ Activist) (NN group))
+      (VP (VBZ seeks)
+        (NP
+          (NP (NNS charges))
+          (PP (IN in)
+            (NP (NNP Iditarod) (NN dog) (NN death) (NNP PETA))))))
+    (VP (VBZ has)
+      (ADVP (RB long))
+      (VP (VBN criticized)
+        (NP (DT the)
+          (ADJP
+            (QP (CD 1) (CD 000)))
+          (NN mile) (JJ Alaskan) (NN sled))))
+    (NP (NN race) (NN http) (NN t) (NNP co) (NNP 2pEQbAzXy2))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NN Love))
+      (PP (IN of)
+        (NP
+          (NP (NN sport))
+          (PP (RB not)
+            (NP (NN money))))))
+    (VP (VBZ draws)
+      (S
+        (NP (NNP Iditarod) (NNS mushers))
+        (VP (VB http)
+          (NP (NN t) (NN co) (NNS nGOXML0Gb5)))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Burmeister) (NNS stays))
+      (PP (IN in)
+        (NP (NNP Takotna) (NNP Mackey))))
+    (VP (VBZ intends)
+      (S
+        (VP (TO to)
+          (VP (VB continue)
+            (S
+              (VP (TO to)
+                (VP (VB Iditarod)
+                  (NP (NN http) (NN t) (NN co) (NN zIJHiAfaQw)))))))))))
+
+(ROOT
+  (S
+    (NP (JJ Criminal) (NNS charges))
+    (VP (VBN sought)
+      (PP (IN in)
+        (NP (NNP Iditarod) (NN dog) (NN death) (NN http) (NN t) (NN co) (NNS Gza0uQm5PV))))))
+
+(ROOT
+  (S
+    (NP (NNP PETA))
+    (VP (VBZ pushes)
+      (PP (IN for)
+        (NP
+          (NP (JJ criminal) (NNS charges))
+          (PP (IN in)
+            (NP (NNP Iditarod) (NN dog) (NN death) (NN http) (NN t) (NN co) (NNS C3aOBbhkKa))))))))
+
+(ROOT
+  (SINV
+    (VP (VB Stand)
+      (PP (IN with)
+        (NP
+          (NP (NNP ALDF))
+          (PP (IN against)
+            (NP (DT this) (JJ cruel) (NN dog) (NN sled) (NN race))))))
+    (NP (NN http) (NN t) (NNP co) (NNP tT2w0gGTWk))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (NNP AK) (NNP Disp) (NNP News) (NNP Featu) (NNP PETA))
+      (VP (VBZ urges)
+        (S
+          (NP (NNP Nome) (NNP DA))
+          (VP (TO to)
+            (VP (VB file)
+              (NP (JJ cruelty) (NNS charges))
+              (PP (IN over)
+                (NP (NNP Iditarod) (NN dog) (NNP s) (NN death) (NNP PETA))))))))
+    (VP (VBZ urges))
+    (NP (NNP Nome) (JJ http) (NN t) (NN co) (NNP TTNR6FF3fA) (NNP AK))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Animal) (NNP Legal) (NNP Defense) (NNP Fund) (NNP Cruelty))
+      (PP (TO to)
+        (NP (NNP Alaska))))
+    (VP (VBZ s)
+      (NP
+        (NP (NNP Sled) (NNS Dogs))
+        (PP (IN in)
+          (NP (DT the) (NNP Iditarod) (NN http) (NN t) (NN co) (NNS nq3hCNlMll)))
+        (PP (IN via)
+          (NP (NNP ALDF)))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Animal) (NNP Legal) (NNP Defense) (NNP Fund) (NNP Cruelty))
+      (PP (TO to)
+        (NP (NNP Alaska))))
+    (VP (VBZ s)
+      (NP
+        (NP (NNP Sled) (NNS Dogs))
+        (PP (IN in)
+          (NP (DT the) (NNP Iditarod) (NN http) (NN t) (NN co) (NN gieDixtfix)))
+        (PP (IN via)
+          (NP (NNP ALDF)))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod))
+    (VP (VBZ s)
+      (NP
+        (NP (NNP Berkowitz))
+        (PP (IN in)
+          (NP
+            (NP (NNP White) (NNP Mountain))
+            (SBAR
+              (S
+                (NP
+                  (NP (DT The) (JJ last) (NN thing) (NN I) (NN m))
+                  (VP (VBG going)
+                    (S
+                      (VP (TO to)
+                        (VP (VB do))))))
+                (VP (VBZ is)
+                  (S
+                    (VP (VB drive)
+                      (NP (PRP$ my) (NNS dogs))
+                      (ADVP (RB hard)
+                        (NP (DT the) (JJ last) (CD 70) (NNS miles)))
+                      (VP (VB http)
+                        (NP (NN t) (NN co) (NNS zRBv8F6Ghh))))))))))))))
+
+(ROOT
+  (FRAG
+    (NP (NNP One) (NNP Mean) (NNP Dance) (NNP Partner))
+    (SBAR
+      (WHADVP (WRB How))
+      (S
+        (NP (NNP Mother) (NNP Nature))
+        (VP (VBZ Twirls)
+          (NP
+            (NP (DT the) (NNP Sport))
+            (PP (IN of)
+              (NP (NNP Dog) (NNP Mushing) (NN http) (NN t) (NNP co) (NNP LmLUMOec50) (NNP Iditarod)))))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Iditarod) (NNPS Mushers) (NNP Kill) (NNS Thousands))
+      (PP (IN of)
+        (NP (NNS Dogs) (NNS Dogs))))
+    (VP (VBP are)
+      (VP (VBG hauling)
+        (NP
+          (NP (NNS sleds))
+          (PP (IN behind)
+            (NP (PRP them))))
+        (PP (IN in)
+          (NP (DT the) (NNP Iditarod) (NNP Trail) (NNP Sled) (NNP Dog) (NNP Rac) (NN http) (NN t) (NN co) (NN xrU5hp8cd4)))))))
+
+(ROOT
+  (NP
+    (NP (NN http) (NN t) (NN co))
+    (NP
+      (NP (CD tQci8G6ZcA) (NNP Iditarod) (NNPS Mushers) (NNP Kill) (NNS Thousands))
+      (PP (IN of)
+        (NP (NNS Dogs))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (NNP AK) (NNP Disp) (NNP News) (NNP Featu) (NNP PETA))
+      (VP (VBZ urges)
+        (S
+          (NP (NNP Nome) (NNP DA))
+          (VP (TO to)
+            (VP (VB file)
+              (NP (JJ cruelty) (NNS charges))
+              (PP (IN over)
+                (NP (NNP Iditarod) (NN dog) (NNP s) (NN death) (NNP PETA))))))))
+    (VP (VBZ urges))
+    (NP (NNP Nome) (JJ http) (NN t) (NN co) (NNP TTNR6FF3fA) (NNP AK))))
+
+(ROOT
+  (S
+    (NP (NNP PETA))
+    (VP (VBZ pushes)
+      (PP (IN for)
+        (NP
+          (NP (JJ criminal) (NNS charges))
+          (PP (IN in)
+            (NP (NNP Iditarod) (NN dog) (NN death) (NN http) (NN t) (NN co) (NNS HsG2HlG2pf))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NNP Dog))
+    (VP (VBZ Dies)
+      (SBAR
+        (S
+          (PP (IN In)
+            (NP (NNP Unalakleet) (NNP Alaska)))
+          (PP (IN After)
+            (NP (NNP Being) (NNP Dropped) (NNP Race) (NNP ANCHORAGE) (NNP Alaska)))
+          (NP (NNS Officials))
+          (VP (VBP say)
+            (NP (DT a) (NN dog))
+            (SBAR (IN that)
+              (S
+                (NP (SYM d))
+                (VP (VB http)
+                  (NP (NN t) (NN co) (NNS csNI9AWGGb)))))))))))
+
+(ROOT
+  (S
+    (NP (JJ latest) (NN news) (NNP Iditarod) (NNP Dog))
+    (VP (VBZ Dies)
+      (SBAR
+        (S
+          (PP (IN In)
+            (NP (NNP Unalakleet) (NNP Alaska)))
+          (PP (IN After)
+            (NP (NNP Being) (NNP Dropped) (NNP Race) (NNP ANCHORAGE) (NNP Alaska)))
+          (NP (NNS Officials) (NN http))
+          (VP (VBP t)
+            (NP (NN co) (NNS ueFtclJF55))))))))
+
+(ROOT
+  (FRAG
+    (NP (NNP One) (NNP Mean) (NNP Dance) (NNP Partner))
+    (SBAR
+      (WHADVP (WRB How))
+      (S
+        (NP (NNP Mother) (NNP Nature))
+        (VP (VBZ Twirls)
+          (NP
+            (NP (DT the) (NNP Sport))
+            (PP (IN of)
+              (NP (NNP Dog) (NNP Mushing) (NN http) (NN t) (NNP co) (NNP LmLUMOec50) (NNP Iditarod)))))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Iditarod) (NNP musher))
+      (SBAR
+        (WHNP (WP$ whose) (NN dog))
+        (S
+          (VP (VBD died)
+            (S
+              (VP (TO to)
+                (VP (VB sue)
+                  (NP (NNP PETA))
+                  (SBAR (IN unless)
+                    (S
+                      (NP (NN organization) (NNS retracts))
+                      (VP (VBZ comments)
+                        (S
+                          (VP (VBG blaming)
+                            (NP (DT the) (NN musher) (NN http))))))))))))))
+    (VP (VBP t)
+      (NP
+        (NP (NN co) (NNS fWc70up5Kn))
+        (PP (IN via)
+          (NP (NNS breakingnews)))))))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ s)
+      (PP (IN About)
+        (NP (NNP Time) (NNP Iditarod) (NNPS Plans) (NNP Changes)))
+      (PP (IN After)
+        (NP (NNP Sled) (NNP Dog) (NNP s) (NNP Death) (NN http) (NN t) (NN co) (NN hSggyUJrsO))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NNS plans))
+    (VP (VBZ changes)
+      (SBAR (IN after)
+        (S
+          (NP (NN sled) (NN dog) (NN death) (NNP ANCHORAGE) (NNP Changes))
+          (VP (VBP are)
+            (VP (VBN planned)
+              (PP (IN for)
+                (NP (NNP Alaska) (NNP s) (NNP Iditarod) (NNP Trail) (NNP Sled) (NNP Dog) (NN http) (NN t) (NN co) (NN Nji4c8TwU4))))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog) (NNP Dorado))
+    (VP (VBD found)
+      (NP
+        (NP
+          (ADJP (JJ dead)
+            (PP (IN in)
+              (NP
+                (NP (NN snow))
+                (PP (IN in)
+                  (NP
+                    (NP (NN town))
+                    (PP (IN of)
+                      (NP
+                        (NP (NNP Unalakeet) (NNP Alaska) (NNP News) (NNP FOX) (NNPS Sports))
+                        (PP (IN on)
+                          (NP (NNP MSN) (NN http) (NN t))))))))))
+          (NN co) (NNS 2EVyZvm3i4))
+        (PP (IN via)
+          (NP (NNP FoxSports)))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Iditarod) (NNP musher))
+      (SBAR
+        (WHNP (WP$ whose) (NN dog))
+        (S
+          (VP (VBD died)
+            (S
+              (VP (TO to)
+                (VP (VB sue)
+                  (NP (NNP PETA))
+                  (SBAR (IN unless)
+                    (S
+                      (NP (NN organization) (NNS retracts))
+                      (VP (VBZ comments)
+                        (S
+                          (VP (VBG blaming)
+                            (NP (DT the) (NN musher) (NN http))))))))))))))
+    (VP (VBP t)
+      (NP
+        (NP (NN co) (NNS fWc70up5Kn))
+        (PP (IN via)
+          (NP (NNS breakingnews)))))))
+
+(ROOT
+  (X
+    (X
+      (ADVP (RB Finally))
+      (NP (DT a) (JJ Happy) (NN Ending)))
+    (NP
+      (SQ
+        (PP (IN at)
+          (NP (NNP Iditarod) (NNP A) (NNP Lost) (NNP Dog)))
+        (VBZ Is)
+        (NP (NNP Found))
+        (PP (IN After)
+          (NP
+            (NP (CD 7) (NNS Days))
+            (PP (IN via)
+              (NP (NNP Dogster))))))
+      (VP (VB http)
+        (NP (NN t) (NN co) (NNS gRKDtB9VNP))))))
+
+(ROOT
+  (NP
+    (NP (NNP Iditarod) (NNP Dog) (NNP Found))
+    (NP
+      (NP (CD 7)
+        (NAC
+          (NP (NNS Days))
+          (PP (IN After)
+            (NP (NNP Disappearing)))
+          (PP (IN From)
+            (NP (NNP Team) (NNP ABC) (NNP News) (NNP Blogs) (NNP Yahoo) (NN http) (NN t))))
+        (NN co) (NNS nriV3kH40I))
+      (PP (IN via)
+        (NP (NNP YahooNews))))))
+
+(ROOT
+  (NP
+    (NP (NNP Iditarod) (NNP Dog) (NNP Found))
+    (NP
+      (NP (CD 7)
+        (NAC
+          (NP (NNS Days))
+          (PP (IN After)
+            (NP (NNP Disappearing)))
+          (PP (IN From)
+            (NP (NNP Team) (NNP ABC) (NNP News) (NNP Blogs) (NNP Yahoo) (NN http) (NN t))))
+        (NN co) (NNS nriV3kH40I))
+      (PP (IN via)
+        (NP (NNP YahooNews))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NNP Dog))
+    (VP (VBZ Dies)
+      (SBAR
+        (S
+          (PP (IN In)
+            (NP (NNP Unalakleet) (NNP Alaska)))
+          (PP (IN After)
+            (NP (NNP Being) (NNP Dropped) (NNP Race) (NNP ANCHORAGE) (NNP Alaska)))
+          (NP (NNS Officials))
+          (VP (VBP say)
+            (NP (DT a) (NN dog))
+            (SBAR (IN that)
+              (S
+                (NP (SYM d))
+                (VP (VB http)
+                  (NP (NN t) (NN co) (NNS csNI9AWGGb)))))))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (JJ Activist) (NN group))
+      (VP (VBZ seeks)
+        (NP
+          (NP (NNS charges))
+          (PP (IN in)
+            (NP (NNP Iditarod) (NN dog) (NN death) (NNP PETA))))))
+    (VP (VBZ has)
+      (ADVP (RB long))
+      (VP (VBN criticized)
+        (NP (DT the)
+          (ADJP
+            (QP (CD 1) (CD 000)))
+          (NN mile) (JJ Alaskan) (NN sled))))
+    (NP (NN race) (NN http) (NN t) (NNP co) (NNP 2pEQbAzXy2))))
+
+(ROOT
+  (S
+    (NP (JJ Activist) (NN group))
+    (VP (VBZ seeks)
+      (NP
+        (NP (NNS charges))
+        (PP (IN in)
+          (NP (NNP Iditarod) (NN dog) (NN death) (NN http) (NN t) (NN co) (NNS DxjUViw0fo)))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Iditarod) (NNPS Mushers) (NNP Kill) (NNS Thousands))
+      (PP (IN of)
+        (NP (NNS Dogs) (NNS Dogs))))
+    (VP (VBP are)
+      (VP (VBG hauling)
+        (NP
+          (NP (NNS sleds))
+          (PP (IN behind)
+            (NP (PRP them))))
+        (PP (IN in)
+          (NP (DT the) (NNP Iditarod) (NNP Trail) (NNP Sled) (NNP Dog) (NNP Rac) (NN http) (NN t) (NN co) (NN xrU5hp8cd4)))))))
+
+(ROOT
+  (SINV
+    (PP (IN In)
+      (NP
+        (NP (NNP Alaska))
+        (SBAR
+          (S
+            (NP
+              (NP (DT an) (NNP Iditarod) (NN dog))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (MD can)
+                    (VP (VB t)
+                      (S
+                        (VP (VB keep)
+                          (PRT (RP up)))))))))
+            (VP (VBZ gets))))))
+    (VP (VBD dropped) (VBZ dies)
+      (PP (IN in)
+        (NP (NN snow))))
+    (NP
+      (NP (NNP First))
+      (SBAR (IN since)
+        (S
+          (NP (CD 2009) (NN http))
+          (VP (VBP t)
+            (NP
+              (NP (NN co) (NNS KM1qnMzeem))
+              (PP (IN via)
+                (NP (NNP AKbirder))))))))))
+
+(ROOT
+  (NP
+    (NP (NN http) (NN t) (NN co))
+    (NP
+      (NP (CD tQci8G6ZcA) (NNP Iditarod) (NNPS Mushers) (NNP Kill) (NNS Thousands))
+      (PP (IN of)
+        (NP (NNS Dogs))))))
+
+(ROOT
+  (NP
+    (NP (NNP Iditarod) (NNPS Mushers) (NNP Kill))
+    (NP
+      (NP (NNS Thousands))
+      (PP (IN of)
+        (NP (NNS Dogs))))
+    (NP (NN http) (NN t) (NN co) (NNS F948MiqgGL))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Animal) (NNP Legal) (NNP Defense) (NNP Fund) (NNP Cruelty))
+      (PP (TO to)
+        (NP (NNP Alaska))))
+    (VP (VBZ s)
+      (NP
+        (NP (NNP Sled) (NNS Dogs))
+        (PP (IN in)
+          (NP (DT the) (NNP Iditarod) (NN http) (NN t) (NN co) (NN gieDixtfix)))
+        (PP (IN via)
+          (NP (NNP ALDF)))))))
+
+(ROOT
+  (S
+    (NP (JJ latest) (NN news) (NNP Iditarod) (NNP Dog))
+    (VP (VBZ Dies)
+      (SBAR
+        (S
+          (PP (IN In)
+            (NP (NNP Unalakleet) (NNP Alaska)))
+          (PP (IN After)
+            (NP (NNP Being) (NNP Dropped) (NNP Race) (NNP ANCHORAGE) (NNP Alaska)))
+          (NP (NNS Officials) (NN http))
+          (VP (VBP t)
+            (NP (NN co) (NNS ueFtclJF55))))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (JJ Activist) (NN group))
+      (VP (VBZ seeks)
+        (NP
+          (NP (NNS charges))
+          (PP (IN in)
+            (NP (NNP Iditarod) (NN dog) (NN death) (NNP PETA))))))
+    (VP (VBZ has)
+      (ADVP (RB long))
+      (VP (VBN criticized)
+        (NP (DT the)
+          (ADJP
+            (QP (CD 1) (CD 000)))
+          (NN mile) (JJ Alaskan) (NN sled))))
+    (NP (NN race) (NN http) (NN t) (NNP co) (NNP 2pEQbAzXy2))))
+
+(ROOT
+  (S
+    (NP (JJ Activist) (NN group))
+    (VP (VBZ seeks)
+      (NP
+        (NP (NNS charges))
+        (PP (IN in)
+          (NP (JJ Iditarod) (NN dog) (NN death) (NN http) (NN t) (NN co) (NN eJYpaOWBnB)))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod))
+    (VP (VBZ s)
+      (NP
+        (NP (NNP Berkowitz))
+        (PP (IN in)
+          (NP
+            (NP (NNP White) (NNP Mountain))
+            (SBAR
+              (S
+                (NP
+                  (NP (DT The) (JJ last) (NN thing) (NN I) (NN m))
+                  (VP (VBG going)
+                    (S
+                      (VP (TO to)
+                        (VP (VB do))))))
+                (VP (VBZ is)
+                  (S
+                    (VP (VB drive)
+                      (NP (PRP$ my) (NNS dogs))
+                      (ADVP (RB hard)
+                        (NP (DT the) (JJ last) (CD 70) (NNS miles)))
+                      (VP (VB http)
+                        (NP (NN t) (NN co) (NNS zRBv8F6Ghh))))))))))))))
+
+(ROOT
+  (S
+    (NP (NNP SO) (NNP Tragic) (NNP Iditarod) (NN dog))
+    (VP (VBZ dies)
+      (SBAR (IN after)
+        (S
+          (NP (JJ frigid) (NN night))
+          (NP (JJ outside) (NNS charges))
+          (VP (VBP are)
+            (VP (VBN urged)
+              (NP (JJ http) (NN t) (NN co) (NNS DSaANi5wqH)))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NNP Dog))
+    (VP (VBZ Dies)
+      (SBAR
+        (S
+          (PP (IN In)
+            (NP (NNP Unalakleet) (NNP Alaska)))
+          (PP (IN After)
+            (NP (NNP Being) (NNP Dropped) (NNP Race) (NNP ANCHORAGE) (NNP Alaska)))
+          (NP (NNS Officials))
+          (VP (VBP say)
+            (NP (DT a) (NN dog))
+            (SBAR (IN that)
+              (S
+                (NP (SYM d))
+                (VP (VB http)
+                  (NP (NN t) (NN co) (NNS csNI9AWGGb)))))))))))
+
+(ROOT
+  (S
+    (NP (JJ latest) (NN news) (NNP Iditarod) (NNP Dog))
+    (VP (VBZ Dies)
+      (SBAR
+        (S
+          (PP (IN In)
+            (NP (NNP Unalakleet) (NNP Alaska)))
+          (PP (IN After)
+            (NP (NNP Being) (NNP Dropped) (NNP Race) (NNP ANCHORAGE) (NNP Alaska)))
+          (NP (NNS Officials) (NN http))
+          (VP (VBP t)
+            (NP (NN co) (NNS ueFtclJF55))))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NN Love))
+      (PP (IN of)
+        (NP
+          (NP (NN sport))
+          (PP (RB not)
+            (NP (NN money))))))
+    (VP (VBZ draws)
+      (S
+        (NP (NNP Iditarod) (NNS mushers))
+        (VP (VB http)
+          (NP (NN t) (NN co) (NNS nGOXML0Gb5)))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog) (NNP Dorado))
+    (VP (VBD found)
+      (NP
+        (NP
+          (ADJP (JJ dead)
+            (PP (IN in)
+              (NP
+                (NP (NN snow))
+                (PP (IN in)
+                  (NP
+                    (NP (NN town))
+                    (PP (IN of)
+                      (NP
+                        (NP (NNP Unalakeet) (NNP Alaska) (NNP News) (NNP FOX) (NNPS Sports))
+                        (PP (IN on)
+                          (NP (NNP MSN) (NN http) (NN t))))))))))
+          (NN co) (NNS 2EVyZvm3i4))
+        (PP (IN via)
+          (NP (NNP FoxSports)))))))
+
+(ROOT
+  (X
+    (X
+      (ADVP (RB Finally))
+      (NP (DT a) (JJ Happy) (NN Ending)))
+    (NP
+      (SQ
+        (PP (IN at)
+          (NP (NNP Iditarod) (NNP A) (NNP Lost) (NNP Dog)))
+        (VBZ Is)
+        (NP (NNP Found))
+        (PP (IN After)
+          (NP
+            (NP (CD 7) (NNS Days))
+            (PP (IN via)
+              (NP (NNP Dogster))))))
+      (VP (VB http)
+        (NP (NN t) (NN co) (NNS gRKDtB9VNP))))))
+
+(ROOT
+  (NP
+    (NP (NNP Iditarod) (NNP Dog) (NNP Found))
+    (NP
+      (NP (CD 7)
+        (NAC
+          (NP (NNS Days))
+          (PP (IN After)
+            (NP (NNP Disappearing)))
+          (PP (IN From)
+            (NP (NNP Team) (NNP ABC) (NNP News) (NNP Blogs) (NNP Yahoo) (NN http) (NN t))))
+        (NN co) (NNS nriV3kH40I))
+      (PP (IN via)
+        (NP (NNP YahooNews))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NN Love))
+      (PP (IN of)
+        (NP
+          (NP (NN sport))
+          (PP (RB not)
+            (NP (NN money))))))
+    (VP (VBZ draws)
+      (S
+        (NP (NNP Iditarod) (NNS mushers))
+        (VP (VB http)
+          (NP (NN t) (NN co) (NNS nGOXML0Gb5)))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (NNP AK) (NNP Disp) (NNP News) (NNP Featu) (NNP PETA))
+      (VP (VBZ urges)
+        (S
+          (NP (NNP Nome) (NNP DA))
+          (VP (TO to)
+            (VP (VB file)
+              (NP (JJ cruelty) (NNS charges))
+              (PP (IN over)
+                (NP (NNP Iditarod) (NN dog) (NNP s) (NN death) (NNP PETA))))))))
+    (VP (VBZ urges))
+    (NP (NNP Nome) (JJ http) (NN t) (NN co) (NNP TTNR6FF3fA) (NNP AK))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBD died)
+      (PP (IN of)
+        (NP
+          (NP (NN asphyxiation))
+          (VP (VBN buried)
+            (PP (IN in)
+              (NP
+                (NP (NN snow) (NN Race) (NNS officials))
+                (VP (VBN disclosed)
+                  (NP
+                    (NP (DT the) (NNS results))
+                    (PP (IN of)
+                      (NP
+                        (NP (DT the) (NN necropsy))
+                        (PP (IN for)
+                          (NP
+                            (ADJP (CD 5) (NN year) (JJ old))
+                            (NNP Dorado)))))
+                    (SBAR
+                      (WHNP (WP who))
+                      (S
+                        (VP (VBP wa))))))))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBD died)
+      (PP (IN of)
+        (NP
+          (NP (NN asphyxiation))
+          (VP (VBN buried)
+            (PP (IN in)
+              (NP (NN snow)))))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (NNP FirstWorldProblems) (NNP PETA))
+      (VP (VBZ seeks)
+        (NP (JJ criminal) (NNS charges))
+        (PP (IN in)
+          (NP
+            (NP (NN death))
+            (PP (IN of)
+              (NP (NN dog)))))))
+    (VP (VBD dropped)
+      (PP (IN from)
+        (NP (NNP Iditarod) (NNP Trail) (NNP Sled) (NNP Dog) (NNP Race))))
+    (NP (NN http) (NN t) (NNP co) (NNP 5anpgWazOy))))
+
+(ROOT
+  (FRAG
+    (NP (NNP One) (NNP Mean) (NNP Dance) (NNP Partner))
+    (SBAR
+      (WHADVP (WRB How))
+      (S
+        (NP (NNP Mother) (NNP Nature))
+        (VP (VBZ Twirls)
+          (NP
+            (NP (DT the) (NNP Sport))
+            (PP (IN of)
+              (NP (NNP Dog) (NNP Mushing) (NN http) (NN t) (NNP co) (NNP LmLUMOec50) (NNP Iditarod)))))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Animal) (NNP Legal) (NNP Defense) (NNP Fund) (NNP Cruelty))
+      (PP (TO to)
+        (NP (NNP Alaska))))
+    (VP (VBZ s)
+      (NP
+        (NP (NNP Sled) (NNS Dogs))
+        (PP (IN in)
+          (NP (DT the) (NNP Iditarod) (NN http) (NN t) (NN co) (NNS nq3hCNlMll)))
+        (PP (IN via)
+          (NP (NNP ALDF)))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Animal) (NNP Legal) (NNP Defense) (NNP Fund) (NNP Cruelty))
+      (PP (TO to)
+        (NP (NNP Alaska))))
+    (VP (VBZ s)
+      (NP
+        (NP (NNP Sled) (NNS Dogs))
+        (PP (IN in)
+          (NP (DT the) (NNP Iditarod) (NN http) (NN t) (NN co) (NN gieDixtfix)))
+        (PP (IN via)
+          (NP (NNP ALDF)))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (NNP AK) (NNP Disp) (NNP News) (NNP Featu) (NNP PETA))
+      (VP (VBZ urges)
+        (S
+          (NP (NNP Nome) (NNP DA))
+          (VP (TO to)
+            (VP (VB file)
+              (NP (JJ cruelty) (NNS charges))
+              (PP (IN over)
+                (NP (NNP Iditarod) (NN dog) (NNP s) (NN death) (NNP PETA))))))))
+    (VP (VBZ urges))
+    (NP (NNP Nome) (JJ http) (NN t) (NN co) (NNP TTNR6FF3fA) (NNP AK))))
+
+(ROOT
+  (SBARQ
+    (WHNP
+      (NP (NNP Iditarod) (NNP Tragedy) (NNP Dog) (NNP Suffocates))
+      (PP (IN Under)
+        (NP (NNP Snow))))
+    (SQ (MD Will)
+      (NP (NNP Justice))
+      (VP (VB Be)
+        (VP (VBN Served)
+          (SBAR
+            (S
+              (PP (IN In)
+                (NP
+                  (NP (NN light))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT the) (NN death))
+                      (PP (IN of)
+                        (NP (NNP Dorado)))))))
+              (NP (DT a) (CD 5) (NN year) (NN http) (NN t))
+              (VP (VBP co)
+                (NP (CD j4gZDmz1eM))))))))))
+
+(ROOT
+  (S
+    (NP (JJ Activist) (NN group))
+    (VP (VBZ seeks)
+      (NP
+        (NP (NNS charges))
+        (PP (IN in)
+          (NP (NNP Iditarod) (NN dog) (NN death) (NN http) (NN t) (NN co) (NNS DxjUViw0fo)))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (JJ Activist) (NN group))
+      (VP (VBZ seeks)
+        (NP
+          (NP (NNS charges))
+          (PP (IN in)
+            (NP (NNP Iditarod) (NN dog) (NN death) (NNP PETA))))))
+    (VP (VBZ has)
+      (ADVP (RB long))
+      (VP (VBN criticized)
+        (NP (DT the)
+          (ADJP
+            (QP (CD 1) (CD 000)))
+          (NN mile) (JJ Alaskan) (NN sled))))
+    (NP (NN race) (NN http) (NN t) (NNP co) (NNP 2pEQbAzXy2))))
+
+(ROOT
+  (SINV
+    (S
+      (NP
+        (NP (NNP Iditarod) (NN dog))
+        (VP (VBG missing)
+          (NP (CD 5) (NNS days))))
+      (VP (VBD found)
+        (NP (JJ alive) (NNP BIG) (NNP LAKE) (NNP Alaska))
+        (NP (NNP March) (CD 15))))
+    (VP (VBP UPI)
+      (NP
+        (NP (DT A) (NN sled) (NN dog))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD went)
+              (S
+                (VP (VBG missing)
+                  (X
+                    (NP (SYM d))))))))))
+    (NP (NN http) (NN t) (NNP co) (NNP QJOHOeMbNN))))
+
+(ROOT
+  (SINV
+    (VP (VB Stand)
+      (PP (IN with)
+        (NP
+          (NP (NNP ALDF))
+          (PP (IN against)
+            (NP (DT this) (JJ cruel) (NN dog) (NN sled) (NN race))))))
+    (NP (NN http) (NN t) (NNP co) (NNP tT2w0gGTWk))))
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNP Women) (NNPS Inmates) (NNP Care))
+      (PP (IN for)
+        (NP (NNP Iditarod) (NNS Dogs))))
+    (NP (NN http) (NN t) (NN co) (NNS EsAZ9y9dNW))))
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNP Women) (NNPS Inmates) (NNP Care))
+      (PP (IN for)
+        (NP (NNP Iditarod) (NNS Dogs))))
+    (NP (NN http) (NN t) (NN co) (NNS R09Vr9YkI2))))
+
+(ROOT
+  (FRAG
+    (NP (NNP One) (NNP Mean) (NNP Dance) (NNP Partner))
+    (SBAR
+      (WHADVP (WRB How))
+      (S
+        (NP (NNP Mother) (NNP Nature))
+        (VP (VBZ Twirls)
+          (NP
+            (NP (DT the) (NNP Sport))
+            (PP (IN of)
+              (NP (NNP Dog) (NNP Mushing) (NN http) (NN t) (NNP co) (NNP LmLUMOec50) (NNP Iditarod)))))))))
+
+(ROOT
+  (S
+    (NP (NNP SO) (NNP Tragic) (NNP Iditarod) (NN dog))
+    (VP (VBZ dies)
+      (SBAR (IN after)
+        (S
+          (NP (JJ frigid) (NN night))
+          (NP (JJ outside) (NNS charges))
+          (VP (VBP are)
+            (VP (VBN urged)
+              (NP (JJ http) (NN t) (NN co) (NNS DSaANi5wqH)))))))))
+
+(ROOT
+  (S
+    (NP (JJ Activist) (NN group))
+    (VP (VBZ seeks)
+      (NP
+        (NP (NNS charges))
+        (PP (IN in)
+          (NP (JJ Iditarod) (NN dog) (NN death) (NN http) (NN t) (NN co) (NN eJYpaOWBnB)))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (JJ Activist) (NN group))
+      (VP (VBZ seeks)
+        (NP
+          (NP (NNS charges))
+          (PP (IN in)
+            (NP (NNP Iditarod) (NN dog) (NN death) (NNP PETA))))))
+    (VP (VBZ has)
+      (ADVP (RB long))
+      (VP (VBN criticized)
+        (NP (DT the)
+          (ADJP
+            (QP (CD 1) (CD 000)))
+          (NN mile) (JJ Alaskan) (NN sled))))
+    (NP (NN race) (NN http) (NN t) (NNP co) (NNP 2pEQbAzXy2))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Animal) (NNP Legal) (NNP Defense) (NNP Fund) (NNP Cruelty))
+      (PP (TO to)
+        (NP (NNP Alaska))))
+    (VP (VBZ s)
+      (NP
+        (NP (NNP Sled) (NNS Dogs))
+        (PP (IN in)
+          (NP (DT the) (NNP Iditarod) (NN http) (NN t) (NN co) (NN gieDixtfix)))
+        (PP (IN via)
+          (NP (NNP ALDF)))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NNS plans))
+    (VP (VBZ changes)
+      (SBAR (IN after)
+        (S
+          (NP (NN sled) (NN dog) (NN death) (NNS Changes))
+          (VP (VBP are)
+            (VP (VBN planned)
+              (PP (IN for)
+                (NP (NNP Alaska) (NNP s) (NNP Iditarod) (NNP Trail) (NNP Sled) (NNP Dog) (NNP Race) (NN fol) (NN http) (NN t) (NN co) (NN siqvcTgpmb))))))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Animal) (NNP Legal) (NNP Defense) (NNP Fund) (NNP Cruelty))
+      (PP (TO to)
+        (NP (NNP Alaska))))
+    (VP (VBZ s)
+      (NP
+        (NP (NNP Sled) (NNS Dogs))
+        (PP (IN in)
+          (NP (DT the) (NNP Iditarod) (NN http) (NN t) (NN co) (NN gieDixtfix)))
+        (PP (IN via)
+          (NP (NNP ALDF)))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Animal) (NNP Legal) (NNP Defense) (NNP Fund) (NNP Cruelty))
+      (PP (TO to)
+        (NP (NNP Alaska))))
+    (VP (VBZ s)
+      (NP
+        (NP (NNP Sled) (NNS Dogs))
+        (PP (IN in)
+          (NP (DT the) (NNP Iditarod) (NN http) (NN t) (NN co) (NNS nq3hCNlMll)))
+        (PP (IN via)
+          (NP (NNP ALDF)))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NNP Dog))
+    (VP (VBD Found)
+      (NP (CD 7) (NNS Days))
+      (PP (IN After)
+        (NP (NNP Disappearing)))
+      (PP (IN From)
+        (NP
+          (NP (JJ Team) (NN http) (NN t) (NN co) (NNS S1RVAXrUAI))
+          (PP (IN via)
+            (NP (NNP ABC))))))))
+
+(ROOT
+  (S
+    (NP (JJ Activist) (NN group))
+    (VP (VBZ seeks)
+      (NP
+        (NP (NNS charges))
+        (PP (IN in)
+          (NP (JJ Iditarod) (NN dog) (NN death) (NN http) (NN t) (NN co) (NN eJYpaOWBnB)))))))
+
+(ROOT
+  (S
+    (NP (JJ Activist) (NN group))
+    (VP (VBZ seeks)
+      (NP
+        (NP (NNS charges))
+        (PP (IN in)
+          (NP (JJ Iditarod) (NN dog) (NN death) (NN http) (NN t) (NN co) (NN eJYpaOWBnB)))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (JJ Activist) (NN group))
+      (VP (VBZ seeks)
+        (NP
+          (NP (NNS charges))
+          (PP (IN in)
+            (NP (NNP Iditarod) (NN dog) (NN death) (NNP PETA))))))
+    (VP (VBZ has)
+      (ADVP (RB long))
+      (VP (VBN criticized)
+        (NP (DT the)
+          (ADJP
+            (QP (CD 1) (CD 000)))
+          (NN mile) (JJ Alaskan) (NN sled))))
+    (NP (NN race) (NN http) (NN t) (NNP co) (NNP 2pEQbAzXy2))))
+
+(ROOT
+  (NP
+    (NP (NN http) (NN t) (NN co))
+    (NP
+      (NP (CD tQci8G6ZcA) (NNP Iditarod) (NNPS Mushers) (NNP Kill) (NNS Thousands))
+      (PP (IN of)
+        (NP (NNS Dogs))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NN Love))
+      (PP (IN of)
+        (NP
+          (NP (NN sport))
+          (PP (RB not)
+            (NP (NN money))))))
+    (VP (VBZ draws)
+      (S
+        (NP (NNP Iditarod) (NNS mushers))
+        (VP (VB http)
+          (NP (NN t) (NN co) (NNS nGOXML0Gb5)))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBZ dies)
+      (PP (IN after)
+        (S
+          (VP (VBG being)
+            (VP (VBN buried)
+              (PP (IN in)
+                (NP (NN snow) (NN http) (NN t) (NN co) (NNS cTaSYZKFpx))))))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBZ dies)
+      (PP (IN after)
+        (S
+          (VP (VBG being)
+            (VP (VBN buried)
+              (PP (IN by)
+                (NP (NN snow))))))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Burmeister) (NNS stays))
+      (PP (IN in)
+        (NP (NNP Takotna) (NNP Mackey))))
+    (VP (VBZ intends)
+      (S
+        (VP (TO to)
+          (VP (VB continue)
+            (S
+              (VP (TO to)
+                (VP (VB Iditarod)
+                  (NP (NN http) (NN t) (NN co) (NN zIJHiAfaQw)))))))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NN Love))
+      (PP (IN of)
+        (NP
+          (NP (NN sport))
+          (PP (RB not)
+            (NP (NN money))))))
+    (VP (VBZ draws)
+      (S
+        (NP (NNP Iditarod) (NNS mushers))
+        (VP (VB http)
+          (NP (NN t) (NN co) (NNS nGOXML0Gb5)))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NNP Dog))
+    (VP (VBD Found)
+      (NP (CD 7) (NNS Days))
+      (PP (IN After)
+        (NP (NNP Disappearing)))
+      (PP (IN From)
+        (NP
+          (NP (JJ Team) (NN http) (NN t) (NN co) (NNS sR53aeGyTm))
+          (PP (IN via)
+            (NP (NNP ABC))))))))
+
+(ROOT
+  (X
+    (X
+      (ADVP (RB Finally))
+      (NP (DT a) (JJ Happy) (NN Ending)))
+    (NP
+      (SQ
+        (PP (IN at)
+          (NP (NNP Iditarod) (NNP A) (NNP Lost) (NNP Dog)))
+        (VBZ Is)
+        (NP (NNP Found))
+        (PP (IN After)
+          (NP
+            (NP (CD 7) (NNS Days))
+            (PP (IN via)
+              (NP (NNP Dogster))))))
+      (VP (VB http)
+        (NP (NN t) (NN co) (NNS gRKDtB9VNP))))))
+
+(ROOT
+  (FRAG
+    (NP (NNP Iditarod) (NNP Dog) (NNP Dies))
+    (PP (IN In)
+      (NP (NNP Unalakleet) (NNP Alaska)))
+    (PP (IN After)
+      (NP (NNP Being) (NNP Dropped) (NNP Race) (NN http) (NN t) (NN co) (NNS V1uHKPhonp)))))
+
+(ROOT
+  (FRAG
+    (NP (NNP One) (NNP Mean) (NNP Dance) (NNP Partner))
+    (SBAR
+      (WHADVP (WRB How))
+      (S
+        (NP (NNP Mother) (NNP Nature))
+        (VP (VBZ Twirls)
+          (NP
+            (NP (DT the) (NNP Sport))
+            (PP (IN of)
+              (NP (NNP Dog) (NNP Mushing) (NN http) (NN t) (NNP co) (NNP LmLUMOec50) (NNP Iditarod)))))))))
+
+(ROOT
+  (S
+    (NP (JJ Criminal) (NNS charges))
+    (VP (VBN sought)
+      (PP (IN in)
+        (NP (NNP Iditarod) (NN dog) (NN death) (NN http) (NN t) (NN co) (NNS Gza0uQm5PV))))))
+
+(ROOT
+  (S
+    (NP (JJ Criminal) (NNS charges))
+    (VP (VBN sought)
+      (PP (IN in)
+        (NP (NNP Iditarod) (NN dog) (NN death) (NN http) (NN t) (NN co) (NNS legrbHuEuI))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBD died)
+      (PP (IN of)
+        (NP
+          (NP (NN asphyxiation))
+          (VP (VBN buried)
+            (PP (IN in)
+              (NP (NN snow)))))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (NNP FirstWorldProblems) (NNP PETA))
+      (VP (VBZ seeks)
+        (NP (JJ criminal) (NNS charges))
+        (PP (IN in)
+          (NP
+            (NP (NN death))
+            (PP (IN of)
+              (NP (NN dog)))))))
+    (VP (VBD dropped)
+      (PP (IN from)
+        (NP (NNP Iditarod) (NNP Trail) (NNP Sled) (NNP Dog) (NNP Race))))
+    (NP (NN http) (NN t) (NNP co) (NNP 5anpgWazOy))))
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNP Women) (NNPS Inmates) (NNP Care))
+      (PP (IN for)
+        (NP (NNP Iditarod) (NNS Dogs))))
+    (NP (NN http) (NN t) (NN co) (NNS R09Vr9YkI2))))
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNP Women) (NNPS Inmates) (NNP Care))
+      (PP (IN for)
+        (NP (NNP Iditarod) (NNS Dogs))))
+    (NP (NN http) (NN t) (NN co) (NNS EsAZ9y9dNW))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Iditarod) (NNP musher))
+      (SBAR
+        (WHNP (WP$ whose) (NN dog))
+        (S
+          (VP (VBD died)
+            (S
+              (VP (TO to)
+                (VP (VB sue)
+                  (NP (NNP PETA))
+                  (SBAR (IN unless)
+                    (S
+                      (NP (NN organization) (NNS retracts))
+                      (VP (VBZ comments)
+                        (S
+                          (VP (VBG blaming)
+                            (NP (DT the) (NN musher) (NN http))))))))))))))
+    (VP (VBP t)
+      (NP
+        (NP (NN co) (NNS fWc70up5Kn))
+        (PP (IN via)
+          (NP (NNS breakingnews)))))))
+
+(ROOT
+  (S
+    (NP (NNP Iditarod) (NN dog))
+    (VP (VBD died)
+      (PP (IN of)
+        (NP
+          (NP (NN asphyxiation))
+          (VP (VBN buried)
+            (PP (IN in)
+              (NP
+                (NP (NN snow) (NN Race) (NNS officials))
+                (VP (VBN disclosed)
+                  (NP
+                    (NP (DT the) (NNS results))
+                    (PP (IN of)
+                      (NP
+                        (NP (DT the) (NN necropsy))
+                        (PP (IN for)
+                          (NP
+                            (ADJP (CD 5) (NN year) (JJ old))
+                            (NNP Dorado)))))
+                    (SBAR
+                      (WHNP (WP who))
+                      (S
+                        (VP (VBP wa))))))))))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Iditarod) (NNPS Mushers) (NNP Kill) (NNS Thousands))
+      (PP (IN of)
+        (NP (NNS Dogs) (NNS Dogs))))
+    (VP (VBP are)
+      (VP (VBG hauling)
+        (NP
+          (NP (NNS sleds))
+          (PP (IN behind)
+            (NP (PRP them))))
+        (PP (IN in)
+          (NP (DT the) (NNP Iditarod) (NNP Trail) (NNP Sled) (NNP Dog) (NNP Rac) (NN http) (NN t) (NN co) (NN xrU5hp8cd4)))))))
+
+(ROOT
+  (NP
+    (NP (NN http) (NN t) (NN co))
+    (NP
+      (NP (CD tQci8G6ZcA) (NNP Iditarod) (NNPS Mushers) (NNP Kill) (NNS Thousands))
+      (PP (IN of)
+        (NP (NNS Dogs))))))
+
+(ROOT
+  (S
+    (NP (JJ latest) (NN news) (NNP Iditarod) (NNP Dog))
+    (VP (VBZ Dies)
+      (SBAR
+        (S
+          (PP (IN In)
+            (NP (NNP Unalakleet) (NNP Alaska)))
+          (PP (IN After)
+            (NP (NNP Being) (NNP Dropped) (NNP Race) (NNP ANCHORAGE) (NNP Alaska)))
+          (NP (NNS Officials) (NN http))
+          (VP (VBP t)
+            (NP (NN co) (NNS ueFtclJF55))))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Burmeister) (NNS stays))
+      (PP (IN in)
+        (NP (NNP Takotna) (NNP Mackey))))
+    (VP (VBZ intends)
+      (S
+        (VP (TO to)
+          (VP (VB continue)
+            (S
+              (VP (TO to)
+                (VP (VB Iditarod)
+                  (NP (NN http) (NN t) (NN co) (NN zIJHiAfaQw)))))))))))
+
